@@ -3,7 +3,7 @@
 .gradle
 build
 .idea
-advanced-template.iml
+topic-backlog-expert-level.iml
 .settings/org.eclipse.buildship.core.prefs
 .project
 learning-objectives.adoc
