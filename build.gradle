@@ -33,8 +33,6 @@ application {
         """--add-opens""", """java.base/java.io=ALL-UNNAMED"""]
 }
 
-apply from: 'scripts/includeLearningObjectives.gradle'
-
 tasks.register('buildDocs') {
     description = 'Grouping task for generating all languages in several formats'
     group = 'documentation'
