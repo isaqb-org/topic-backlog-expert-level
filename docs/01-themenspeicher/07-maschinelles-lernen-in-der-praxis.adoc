@@ -1,0 +1,30 @@
+// tag::DE[]
+=== Maschinelles Lernen in der Praxis
+Themeneinreicher: Hermann Wook (hwoock) 
+
+Status: EINGEREICHT
+
+==== Kurzbeschreibung
+ML entwickelt sich immer mehr von einer Fiktion zu einer nicht mehr wegzudenkender Technik. Einsatzgebiete sind sehr vielfältig: Baubranche, Automobilindustrie, Finanzwesen, Behörden, Logistik, Marketing, … Die Umsetzung erfordert allerdings neue Talente, und wirft Fragen auf. Niemand sollte diese Entwicklung verschlafen.
+
+==== Welche Herausforderung verbindet sich mit dem Thema?
+Es gibt viele Dinge zu klären:
+
+- Welche Probleme lassen sich mit ML lösen?
+- Welcher Aufwand steckt dahinter?
+- Welche Skills sind bei der Umsetzung erforderlich?
+- Welche rechtlichen Beeinflussungen müssen beachtet werden?
+- Wie groß sind die Erfolgsaussichten?
+
+==== Wo tritt das Problem im Markt auf, und wer hat ein Interesse an der Lösung des Problems?
+Im Rahmen der Digitalisierung oder der stärker werdenden Konkurrenz braucht es neue Lösungen, bei denen ML eine gute Hilfe anbieten kann. Im Bereich von Business Intelligence oder Big Data braucht es neue Verfahren, bei denen ML unterstützen kann.
+
+Das Thema ist von Interesse für: Management, RE, Architekten, Entwicklung, Test
+
+==== Welchen Beitrag leistet die Bearbeitung des Themas? Was wird besser, wenn dieses Thema bearbeitet wurde?
+Wer sich nicht früh mit ML beschäftigt, für den kann der Zug später vielleicht schon abgefahren sein. Dennoch ist ein Investment sehr riskant. Der Beitrag soll Mut machen, einen Einstieg in dieses Thema zu finden. Wo gibt es Erfolge, wie kann man anfangen, wo gibt es noch große Fragezeichen, welche Fragen gibt es zu beantworten? Was sind die richtigen Tools? Wo kommt ML in Projekten schon erfolgreich zum Einsatz. Wie wird mit den Problemen z.B. des Datenschutzes in Behörden umgegangen, wenn Prozesse und Entscheidungen mit ML umgesetzt werden sollen. Wie ist das Vertrauen, wenn ML die Statik von neuen Konstruktionen im Bauwesen berechnet?
+
+==== Optionale Angaben zu Links, Literatur, Verweisen aller Art
+
+==== Empfohlene Größe der Thema-Arbeitsgruppe
+5-10 Personen

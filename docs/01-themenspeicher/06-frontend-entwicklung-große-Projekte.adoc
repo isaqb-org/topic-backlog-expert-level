@@ -1,0 +1,72 @@
+// tag::DE[]
+=== Frontend-Entwicklung in großen Projekten
+Themeneinreicher: Johannes Hochrainer (jhochrainer) 
+
+Status: EINGEREICHT
+
+==== Einreichung
+===== Kurzbeschreibung
+
+Große Softwaresysteme werden in der Regel von mehreren Entwicklungsteams umgesetzt. Während sich im Backend Feature-Teams durchgesetzt haben, wird in vielen Projekten das Frontend von einem einzigen Team entwickelt. Doch auch im Frontend setzt sich immer mehr der Microservice-Gedanke durch: unabhängige Teams arbeiten an einem fachlichen Frontend-Baustein und können ihren Baustein unabhängig von den anderen Teams entwickeln und ausliefern. Für die Umsetzung dieser sogenannten Micro Frontend Architektur gibt es verschiedenste methodische und technische Ansätze. Die Themenarbeitsgruppe soll konkret Ansätze vorstellen, die es ermöglichen das Frontend eines Systems flexibel und effizient mit verschiedenen Teams zu entwickeln. Dazu gehören u. a. Folgende:
+
+- Micro Frontends
+- Self-Contained Systems
+- Backends for Frontends Pattern
+- Organisationsinterne Komponentenbibliotheken (ähnlich Angular Material)
+- Webpack Module Federation
+- Monorepos (z. B. mit Nx)
+
+Spannend ist weiterhin, wie man von einem bestehenden Monolithischen Frontend zu einem sauber modularisierten, parallel entwickelbaren Frontend kommt.
+
+===== Welche Herausforderung verbindet sich mit dem Thema?
+
+Auch wenn es schon eine ganze Reihe von Konzepten und Ansätzen gibt werden diese noch relativ selten eingesetzt und es gibt wenig Praxiserfahrung. Es gibt zwar vergleichsweise viele Artikel über diese Themen, doch sind diese meist Oberflächlich und haben selten einen konkreten Projektbezug. Wenn der Architekturansatz der Micro Frontends ohne Erfahrung und fundierten Kenntnissen verfolgt wird ist die Wahrscheinlichkeit hoch dass er scheitert beziehungsweise zu großen Mehraufwänden führt.
+
+===== Wo tritt das Problem im Markt auf, und wer hat ein Interesse an der Lösung des Problems?
+
+Potentiell bei der Entwicklung aller Systeme, die ein größeres Web Frontend haben.
+
+Interesse an diesem Thema haben: Management, Architekten, Entwicklung.
+
+===== Welchen Beitrag leistet die Bearbeitung des Themas? Was wird besser, wenn dieses Thema bearbeitet wurde?
+
+Konkrete Entscheidungshilfe für Architekten und Entwicklungsteams, ob für ihre Problemstellung ein Micro Frontent Ansatz sinnvoll ist und welche der technischen Umsetzungsmöglichkeiten gewählt werden sollte.
+
+===== Optionale Angaben zu Links, Literatur, Verweisen aller Art
+
+Angular Material, https://material.angular.io/
+
+Nx Monorepo, https://nx.dev/
+
+Micro Frontends, https://micro-frontends.org/
+
+Self Contained Systems, https://scs-architecture.org/
+
+Backends for Frontends Pattern - Cloud Design Patterns, https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends
+
+Webpack Module Federation, https://webpack.js.org/concepts/module-federation/
+
+
+==== Veröffentlichung
+===== Hintergrund
+Große Softwaresysteme werden in der Regel von mehreren Entwicklungsteams umgesetzt. Während sich im Backend Feature-Teams durchgesetzt haben, wird in vielen Projekten das Frontend von einem einzigen Team entwickelt. Doch auch im Frontend setzt sich immer mehr der Microservice-Gedanke durch: Unabhängige Teams arbeiten an einem fachlichen Frontend-Baustein und können ihren Baustein unabhängig von den anderen Teams entwickeln und ausliefern. Für die Umsetzung dieser sogenannten Microfrontend-Architektur gibt es verschiedenste methodische und technische Ansätze.
+
+===== Aufgabenstellung
+Folgende Aufgaben sollen behandelt werden:
+
+- Wie kann ein Frontend flexibel und effizient mit verschiedenen Entwicklungsteams umgesetzt werden? Dazu gehören u. a. Folgende:
+  - Micro Frontends
+  - Self-Contained Systems
+  - Backends for Frontends Pattern
+  - Organisationsinterne Komponentenbibliotheken (ähnlich Angular Material)
+  - Webpack Module Federation
+  - Monorepos (z. B. mit Nx)
+- Wie baut man ein bestehendes monolithisches Frontend zu einem sauber modularisierten, parallel entwickelbaren Frontend um?
+
+===== Referenzen
+- Angular Material, https://material.angular.io/
+- Nx Monorepo, https://nx.dev/
+- Micro Frontends, https://micro-frontends.org/
+- Self Contained Systems, https://scs-architecture.org/
+- Backends for Frontends Pattern - Cloud Design Patterns, https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends
+- Webpack Module Federation, https://webpack.js.org/concepts/module-federation/

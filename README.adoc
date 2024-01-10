@@ -1,7 +1,4 @@
-= https://isaqb.org[iSAQB] Topic Backlog for CPSA®-Expert Level
-
-:toc:
-:toc-placement!:
+= Topic Backlog for the https://isaqb.org[iSAQB]^®^ CPSA^®^ Expert Level
 
 ifdef::env-github[]
 :tip-caption: :bulb:
@@ -12,49 +9,56 @@ ifdef::env-github[]
 endif::[]
 
 == Status
-image:https://github.com/isaqb-org/topic-backlog-expert-level/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI – Releases and Main"]
-image:https://img.shields.io/github/last-commit/isaqb-org/topic-backlog-expert-level/main.svg["Last commit"]
-image:https://img.shields.io/github/contributors/isaqb-org/topic-backlog-expert-level.svg["Contributors",link="https://github.com/isaqb-org/topic-backlog-expert-level/graphs/contributors"]
-image:https://img.shields.io/github/issues/isaqb-org/topic-backlog-expert-level.svg["Issues",link="https://github.com/isaqb-org/topic-backlog-expert-level/issues"]
-image:https://img.shields.io/github/issues-closed/isaqb-org/topic-backlog-expert-level.svg["Issues closed",link="https://github.com/isaqb-org/topic-backlog-expert-level/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
-
+image:https://github.com/isaqb-org/examination-expert/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI – Releases and Main"]
+image:https://img.shields.io/github/last-commit/isaqb-org/examination-expert/main.svg["Last commit"]
+image:https://img.shields.io/github/contributors/isaqb-org/examination-expert.svg["Contributors",link="https://github.com/isaqb-org/examination-expert/graphs/contributors"]
+image:https://img.shields.io/github/issues/isaqb-org/examination-expert.svg["Issues",link="https://github.com/isaqb-org/examination-expert/issues"]
+image:https://img.shields.io/github/issues-closed/isaqb-org/examination-expert.svg["Issues closed",link="https://github.com/isaqb-org/examination-expert/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
 This is <<copyrighted,copyrighted work>>.
 
 == Content
-This repository contains a list of topics that can be chosen for the iSAQB® CPSA®-Expert Level examination.
+This repository contains the topic backlog for the iSAQB^®^ CPSA^®^ Expert Level in AsciiDoc.
 
-toc::[]
+== How to clone the project
+The project uses Git Modules. So, don't forget to clone the repository with the option --recursive.
+
+If you forgot the option --recursive, you can load the Git Modules with this command
+[source,console]
+$ git submodule update --init
 
 == How to contribute or participate
 Create an issue, a merge- or pull-request
 
-== How to build this project
-Clone the repository—including the submodules:
+== How to build the documents
+Prerequisite: You need a Java Runtime(tm) installed.
 
---
-[source,shell]
+You build the output documents with gradle:
+[source,console]
+$ ./gradlew buildDocs
+
+That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
+
+In case you want to change that, adjust the following part of `build.gradle`:
+
+[source,groovy]
 ----
-Via SSH:
-git clone git@github.com:isaqb-org/topic-backlog-expert-level.git --recursive
-
-Via HTTPS:
-git clone https://github.com/isaqb-org/topic-backlog-expert-level.git --recursive
+task buildDocs {
+  group 'Documentation'
+  description 'Grouping task for generating all languages in several formats'
+  dependsOn "renderDE", "renderEN"
+}
 ----
---
 
-. Build the project with http://www.gradle.com[gradle] (you need a locally installed JDK 17 or higher) via `./gradlew buildDocs`.
-. Once the "BUILD SUCCESSFUL" is show, you can review the build result under `./build/index.html`
+In the task "renderDE", certain attributes (aka variables) are defined that configure the corresponding output.
 
 == Additional translations/languages
 include::docs-ext/EXTERNAL_DOCUMENTS_README.adoc[]
 
 == Maintainers
 
-This repository is currently maintained by the Expert Level Maintainer group of iSAQB>
-It was forked from https://github.com/isaqb-org/advanced-template,
-so the contributors of that project basically contributed to this one, too.
-
+This repository is currently maintained by the Examination Level Working Group
+It was forked from https://github.com/isaqb-org/topic-backlog-expert-level.
 
 [[copyrighted]]
 == Licensing and Copyright

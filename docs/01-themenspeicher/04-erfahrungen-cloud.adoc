@@ -1,0 +1,12 @@
+// tag::DE[]
+=== Erfahrungen in der Cloud
+Themeneinreicher: Hermann Wook (hwoock) 
+
+Status: ENTWURF
+
+==== Kurzbeschreibung
+==== Welche Herausforderung verbindet sich mit dem Thema?
+==== Wo tritt das Problem im Markt auf, und wer hat ein Interesse an der Lösung des Problems?
+==== Welchen Beitrag leistet die Bearbeitung des Themas? Was wird besser, wenn dieses Thema bearbeitet wurde?
+==== Optionale Angaben zu Links, Literatur, Verweisen aller Art
+==== Empfohlene Größe der Thema-Arbeitsgruppe

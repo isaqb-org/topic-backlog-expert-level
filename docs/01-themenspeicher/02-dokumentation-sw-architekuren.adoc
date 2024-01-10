@@ -1,0 +1,75 @@
+// tag::DE[]
+=== Dokumentation von SW Architekturen
+Themeneinreicher: Hermann Wook (hwoock) 
+
+Status: EINGEREICHT
+
+==== Einreichung
+
+===== Kurzbeschreibung
+
+Dokumentation ist in der Softwareentwicklung genauso wichtig wie unbeliebt. In der Vergangenheit und unter Einfluss des Wasserfallmodells entstanden oft unübersichtliche Papierwüsten. In der agilen Softwareentwicklung hingegen wird Dokumentation oft als Ballast und überflüssig angesehen. Neue Medien und das Erkennen der Wichtigkeit für eine saubere Architekturdokumentation werfen ein neues Licht auf Dokumentation. Was sind Qualitätsmerkmale für eine gute Dokumentation der Architektur und wie führt man diese Erkenntnisse in ein Projekt ein? Welche Erfahrungen mit der Einführung und dem täglichen Gebrauch können an andere Teams weitergegeben werden? Welche Schwierigkeiten traten auf und wie wurde damit umgegangen. An welchen Stellen gibt es noch ungelöste Fragen und Probleme?
+
+===== Welche Herausforderung verbindet sich mit dem Thema?
+
+Folgende Themen gelten als Herausforderung:
+
+- Finden der passenden Form für die Dokumentation (Format, Ablageort, Struktur, verwendete Notationen).
+- Identifizieren der für die Architektur relevanten Artefakte und Anforderungen.
+- Dokumentation von Entscheidungen und Prinzipien.
+- Dokumentation aktuell halten und Veränderungen so dokumentieren, dass sie nachvollziehbar sind.
+- Dokumentation aktiv benutzen und dafür sorgen, dass sie für das Projekt von nutzen ist.
+- Wie kann die Architektur Dokumentation mit anderen Dokumentation im Projekt (Anforderungen, Spezifikation, ...) sinnvoll verknüpft werden.
+- Identifizieren der notwendigen Inhalte und ihres Detaillierungsgrades (nicht zu viel, nicht zu wenig). 
+
+===== Wo tritt das Problem im Markt auf, und wer hat ein Interesse an der Lösung des Problems?
+
+Für folgende Personen im Projekt ist die Architektur-Dokumentation von Interesse:
+
+- Software Architekten
+- Entwickler
+- Designer
+- Tester
+- Betrieb
+- Wartung
+- Support
+
+===== Welchen Beitrag leistet die Bearbeitung des Themas? Was wird besser, wenn dieses Thema bearbeitet wurde?
+
+Immer mehr Teams haben von der Nutzung von Arc42 gehört und planen es aufgrund der positiven Kritik auch einsetzen. Dazu benötigen sie eine Expertise von anderen Teams und Projekten, um die Entscheidung leichter fällen zu können.
+
+Neben dem vorgegebenen Inhaltsverzeichnis benötigen sie eine Vorgehensweise, wie das Template eingesetzt werden kann. Was ist der zu erwartende Umfang des Dokuments? Wie können Inhalte aussehen? Welche Darstellungsmittel können für die verschiedenen Bereiche des Templates eingesetzt werden (UML Diagrammtypen, C4 Modell)? Wann ist genug dokumentiert, ab wann wird es zu viel? Wie ist die Dokumentation in das Projekt eingeflochten?
+
+Ebenso werden Erfahrungsberichte darüber benötigt, wo die Dokumentation mit dieser Vorlage an Grenzen stößt. Wie gelingt es, dass das Dokument zur Kommunikation genutzt wird und nicht veraltet. Wie hat eine Migration aus einer anderen Dokumentationsvorlage geklappt? Wie kann das Management für die Investition für den Einsatz oder den Umstieg gewonnen werden. Gibt es neben Arc42 Alternativen, die besser geeignet sind? Ist diese Art der Dokumentation für jede Art Projekt geeignet?
+
+===== Optionale Angaben zu Links, Literatur, Verweisen aller Art
+
+- http://arc42.de
+- Buch "Softwarearchitekturen dokumentieren und kommunizieren: Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten" von Stefan Zörner erschienen im Hanser Verlag
+- Buch "arc42 in Aktion: Praktische Tipps zur Architekturdokumentation: Praktische Tipps zur Architekturdokumentation" von GErnot Starke und Peter Hruschka erschienen im Hanser Verlag 
+- https://adr.github.io/
+- https://c4model.com/
+
+===== Empfohlene Größe der Thema-Arbeitsgruppe
+
+2 - 6
+
+==== Veröffentlichung
+===== Hintergrund
+Dokumentation ist in der Softwareentwicklung genauso wichtig wie unbeliebt. In der Vergangenheit und unter Einfluss des Wasserfallmodells entstanden oft unübersichtliche Papierwüsten. In der agilen Softwareentwicklung hingegen wird Dokumentation oft als Ballast und überflüssig angesehen. Neue Medien und das Erkennen der Wichtigkeit für eine saubere Architekturdokumentation werfen ein neues Licht auf Dokumentation. Was sind Qualitätsmerkmale für eine gute Dokumentation der Architektur und wie führt man diese Erkenntnisse in ein Projekt ein? Welche Erfahrungen mit der Einführung und dem täglichen Gebrauch können an andere Teams weitergegeben werden? Welche Schwierigkeiten traten auf und wie wurde damit umgegangen. An welchen Stellen gibt es noch ungelöste Fragen und Probleme?
+
+===== Aufgabenstellung
+Folgende Aufgaben sollen behandelt werden:
+
+- Welche Formen eignen sich für die Dokumentation von SW-Architekturen (Format, Ablageort, Struktur, verwendete Notationen)?
+- Wie nutzt man Dokumentation als Kommunikationsmittel und nicht als Ablage?
+- Wie werden Entscheidungen und Prinzipien dokumentiert?
+- Wie können die Artefakte der SW-Architekturdokumentation mit anderen Artefakten (Anforderungen, Fehlerberichte, Testfälle, ...) verknüpft werden (Traceability)?
+- Wie identifiziert man die notwendigen Inhalte und bestimmt den Detaillierungsgrad der Dokumentation?
+
+===== Referenzen
+- http://arc42.de
+- Buch "Softwarearchitekturen dokumentieren und kommunizieren: Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten" von Stefan Zörner erschienen im Hanser Verlag
+- Buch "arc42 in Aktion: Praktische Tipps zur Architekturdokumentation: Praktische Tipps zur Architekturdokumentation" von Gernot Starke und Peter Hruschka erschienen im Hanser Verlag 
+- https://adr.github.io/
+- https://c4model.com/
