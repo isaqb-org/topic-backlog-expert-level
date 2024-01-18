@@ -30,4 +30,4 @@ Wer bislang nur mit Relationalen Datenbanken zu tun hatte, kann sich oft nicht v
 Fowler, M., & Sadalage, P. J. (2012). NoSQL distilled.  Pearson Education. 
 
 ==== Empfohlene Größe der Thema-Arbeitsgruppe
-10 Personen
+7 Personen

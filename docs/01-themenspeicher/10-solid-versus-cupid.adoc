@@ -27,3 +27,6 @@ Die Themenarbeitsgruppe soll folgende Fragen klären:
 - Principles Of Object Oriented Design, http://wiki.c2.com/?PrinciplesOfObjectOrientedDesign
 - CUPID—the back story, https://dannorth.net/2021/03/16/cupid-the-back-story/
 - CUPID—for joyful coding, https://dannorth.net/2022/02/10/cupid-for-joyful-coding/
+
+==== Empfohlene Größe der Thema-Arbeitsgruppe
+3-5 Personen

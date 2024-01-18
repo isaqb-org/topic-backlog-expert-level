@@ -22,4 +22,4 @@ Der Beitrag soll beim Prove of Concept für µServices helfen. Er soll die Probl
 Skalierbare Container-Infrastrukturen für ihr Unternehmen
 
 ==== Empfohlene Größe der Thema-Arbeitsgruppe
-6-10 Personen
+6-7 Personen

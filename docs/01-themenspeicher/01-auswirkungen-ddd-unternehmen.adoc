@@ -29,4 +29,4 @@ Vernon, V. (2013). Implementing Domain-Driven Design. Pearson ITP.
 ==== Sind Sie generell daran interessiert, an einer Themengruppe für Ihr eingereichtes Thema mitzuwirken?
 
 ==== Empfohlene Größe der Thema-Arbeitsgruppe
-5-10 Personen
+5-7 Personen

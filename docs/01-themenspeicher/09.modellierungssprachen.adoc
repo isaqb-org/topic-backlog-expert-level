@@ -43,4 +43,4 @@ Interessant für: RE, PO, Projektleiter, Architekten, Operation, Entwickler, Tes
 - Precise Semantics of UML State Machines (PSSM)
 
 ==== Empfohlene Größe der Thema-Arbeitsgruppe
-4-8 Personen
+4-7 Personen

@@ -70,3 +70,7 @@ Folgende Aufgaben sollen behandelt werden:
 - Self Contained Systems, https://scs-architecture.org/
 - Backends for Frontends Pattern - Cloud Design Patterns, https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends
 - Webpack Module Federation, https://webpack.js.org/concepts/module-federation/
+
+
+==== Empfohlene Größe der Thema-Arbeitsgruppe
+3-7 Personen
