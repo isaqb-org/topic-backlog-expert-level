@@ -20,9 +20,6 @@ include::02-dokumentation-sw-architekuren.adoc[{include_configuration}]
 include::03-einsatz-nosql-datenbanken-projekt.adoc[{include_configuration}]
 
 <<<
-include::04-erfahrungen-cloud.adoc[{include_configuration}]
-
-<<<
 include::05-erfahrungen-event-driven-architekturen.adoc[{include_configuration}]
 
 <<<
