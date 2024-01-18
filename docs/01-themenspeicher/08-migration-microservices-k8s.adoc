@@ -23,11 +23,3 @@ Skalierbare Container-Infrastrukturen für ihr Unternehmen
 
 ==== Empfohlene Größe der Thema-Arbeitsgruppe
 6-10 Personen
-
-==== Comments
-- Johannes Hochrainer (jhochrainer), 4/8/2022, 9:10:02 PM +
-  Von den Herausforderungen könnte man auch noch die überforderten Entwickler übernehmen. +
-  Weitere Fragen:
-  - Welche leichter verständlichen Alternativen gibt es?
-  - Welche Erweiterungen vereinfachen die Arbeit mit Kubernetes und wann sollten sie eingesetzt werden (OpenShift, ...).
-  - Welche Auswirkungen hat der Einsatz von Kubernetes auf das Wissen der Entwickler, die Rollen in den Teams und die Zusammenarbeit zwischen Entwicklungsteams und Betrieb (DevOps)?
