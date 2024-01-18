@@ -36,9 +36,9 @@ Wie fange ich an? Welches Framework ist das richtige? Welche Probleme gibt es zu
 
 
 ===== Optionale Angaben zu Links, Literatur, Verweisen aller Art
+Vernon, V. (2013). Implementing Domain-Driven Design. Pearson ITP. 
 
-- Buch "Implementing Domain-Driven Design" von Vaughn Vernon erschienen bei Addison Wesley
-- https://www.heise.de/news/software-architektur-tv-Softwarearchitektur-mit-Events-Event-Sourcing-und-CQRS-7061126.html
+Domogalla, M. (2022, April 21). Software-Architektur.tv: Softwarearchitektur MIT events, event sourcing UND CQRS. Developer. https://www.heise.de/news/software-architektur-tv-Softwarearchitektur-mit-Events-Event-Sourcing-und-CQRS-7061126.html 
 
 
 ===== Empfohlene Größe der Thema-Arbeitsgruppe
@@ -66,11 +66,6 @@ Diese Fragen sollen behandelt werden:
 
 
 ===== Referenzen
-- Buch "Implementing Domain-Driven Design" von Vaughn Vernon erschienen bei Addison Wesley
-- https://www.heise.de/news/software-architektur-tv-Softwarearchitektur-mit-Events-Event-Sourcing-und-CQRS-7061126.html
+Vernon, V. (2013). Implementing Domain-Driven Design. Pearson ITP. 
 
-
-
-https://bookstack.isaqb.org/link/737#bkmrk-comments
- 
-Comments
+Domogalla, M. (2022, April 21). Software-Architektur.tv: Softwarearchitektur MIT events, event sourcing UND CQRS. Developer. https://www.heise.de/news/software-architektur-tv-Softwarearchitektur-mit-Events-Event-Sourcing-und-CQRS-7061126.html 

@@ -68,8 +68,11 @@ Folgende Aufgaben sollen behandelt werden:
 - Wie identifiziert man die notwendigen Inhalte und bestimmt den Detaillierungsgrad der Dokumentation?
 
 ===== Referenzen
-- http://arc42.de
-- Buch "Softwarearchitekturen dokumentieren und kommunizieren: Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten" von Stefan Zörner erschienen im Hanser Verlag
-- Buch "arc42 in Aktion: Praktische Tipps zur Architekturdokumentation: Praktische Tipps zur Architekturdokumentation" von Gernot Starke und Peter Hruschka erschienen im Hanser Verlag 
-- https://adr.github.io/
-- https://c4model.com/
+
+Zörner, S. (2021). Software-Architekturen dokumentieren und kommunizieren. Hanser Verlag
+
+Starke, G. & Hruschka P. (2022). Arc42 in Aktion: Praktische Tipps zur Architekturdokumentation. Carl Hanser Verlag
+
+Homepage of the ADR GitHub organization. https://adr.github.io/
+
+Brown, S. The C4 model for visualising software architecture. https://c4model.com/ 

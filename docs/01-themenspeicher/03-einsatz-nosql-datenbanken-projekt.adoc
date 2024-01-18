@@ -27,8 +27,7 @@ Das Thema ist interessant für Architekten, Entwicklung, Betrieb, DB-Administrat
 Wer bislang nur mit Relationalen Datenbanken zu tun hatte, kann sich oft nicht vorstellen, wie der Einsatz von NoSQL-Datenbanken gelingen kann. Ein paar gelungene Beispiele aus der Praxis mit Tips und Tricks, Pros und Cons würden weiterhelfen.
 
 ==== Optionale Angaben zu Links, Literatur, Verweisen aller Art
-Martin Fowler +
-https://www.google.de/books/edition/NoSQL_Distilled/AyY1a6-k3PIC?hl=de&gbpv=1&dq=martin+fowler+nosql&printsec=frontcover
+Fowler, M., & Sadalage, P. J. (2012). NoSQL distilled.  Pearson Education. 
 
 ==== Empfohlene Größe der Thema-Arbeitsgruppe
 10 Personen
