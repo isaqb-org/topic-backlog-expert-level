@@ -1,25 +1,23 @@
 // tag::DE[]
-=== Migration zu µServices unter K8s
-Themeneinreicher: Hermann Wook (hwoock) 
+=== Migration zu Microservices unter Kubernetes
+Themeneinreicher: Hermann Woock
 
-Status: EINGEREICHT
+Status: Freigegeben
 
-==== Kurzbeschreibung
-Märkte werden komplexer, Software, wird im Bereich Business und Technologie komplizierter. Das nötigt Firmen immer häufiger dazu, die Lösung für ihre SW-Projekte in einer µService Architektur zu suchen. Vom Ansatz mag das passen. Dennoch werden oft die damit verbundenen neuen Herausforderungen meist übersehen oder unterschätzt. Erfahrungen aus anderen Projekten sollen bei der Planung und Umsetzung von µService Projekten helfen.
+==== Hintergrund
 
-==== Welche Herausforderung verbindet sich mit dem Thema?
-µServices werden in der Regel mit Kubernetes realisiert. Kubernetes ist ein hoch kompliziertes und komplexes Framework. Entwickler sind mit dessen Installation, Nutzung und Betrieb vollkommen überfordert. Projekte können so leicht scheitern oder unrentabel werden. Ein intensiver Austausch der Rollen: Anforderungsmanagement, Architektur, Entwicklung, Test und Betrieb sind deshalb erforderlich. Erste Ansätze gibt es dafür im DevOps. Weitere werden nötig.
+Märkte werden komplexer, Software, wird im Bereich Business und Technologie komplizierter. Das nötigt Firmen immer häufiger dazu, die Lösung für ihre SW-Projekte in einer Microservices-Architektur (µService) zu suchen.
 
-==== Wo tritt das Problem im Markt auf, und wer hat ein Interesse an der Lösung des Problems?
-Das Problem tritt bei Migrationen von Altsoftware ebenso wie bei Neuentwicklungen auf. Teams sind unerfahren mit neuer Architektur, Technologie und Vorgehensweise. Fehlende Agilität und starre Strukturen im Unternehmen kommen erschwerend hinzu.
+µServices werden in der Regel mit Kubernetes (K8s) realisiert. Kubernetes ist ein hoch kompliziertes und komplexes Framework. Entwickler sind mit deren Installation, Nutzung und Betrieb häufig überfordert. Projekte können so leicht scheitern oder unrentabel werden. Ein intensiver Austausch zwischen den Rollen Anforderungsmanagement, Architektur, Entwicklung, Test und Betrieb ist deshalb erforderlich. Fehlende Agilität und starre Strukturen im Unternehmen kommen erschwerend hinzu. Erste Ansätze gibt es dafür im DevOps. Weitere werden nötig.
 
-Interessiert sind: Management, Entwicklung (RE, Architektur, Implementierung, Test, Betrieb)
+==== Aufgabenstellung
 
-==== Welchen Beitrag leistet die Bearbeitung des Themas? Was wird besser, wenn dieses Thema bearbeitet wurde?
-Der Beitrag soll beim Prove of Concept für µServices helfen. Er soll die Probleme, Herangehensweisen und Lösungen vermitteln, damit davon profitiert werden kann.
+Die Teilnehmer sollen die Probleme, Herangehensweise und Lösungen aus ihren Projekten aufarbeiten und einen Leitfaden erstellen.
 
-==== Optionale Angaben zu Links, Literatur, Verweisen aller Art
-Skalierbare Container-Infrastrukturen für ihr Unternehmen
+==== Referenzen
 
-==== Empfohlene Größe der Thema-Arbeitsgruppe
-6-7 Personen
+Liebel, O. (2023). Skalierbare Container-Infrastrukturen: Das Handbuch für Administratoren (4. Ausgabe). Rheinwerk Computing. 
+
+==== Gruppengröße
+
+Das Thema soll von einer Gruppe mit 6-7 Personen bearbeiten.

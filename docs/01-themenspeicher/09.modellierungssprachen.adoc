@@ -1,38 +1,25 @@
 // tag::DE[]
 === Modellierungssprachen
-Themeneinreicher: Johannes Hochrainer (jhochrainer) 
+Themeneinreicher: Johannes Hochrainer
 
-Status: EINGEREICHT
+Status: Freigegeben
 
-==== Kurzbeschreibung
-Modellierungssprachen sind nicht allerorts beliebt. Oft gelten sie als zu kompliziert oder aufwendig. Dennoch lassen sich große Projekte ohne Modellierung nicht umsetzen. Zu spät wird oft erst erkannt, dass man die Zusammenhänge im Projekt nicht mehr durchschaut und ein geeignetes Modell hier hätte helfen können. Noch besser wäre es gewesen schon bei Zeiten mit der Modellierung zu beginnen, um die Kommunikation im Projekt zu fördedn.
+==== Hintergrund
 
-Doch welche möglichkeiten für die Modellierung gibt es. Außer UML, BPMN, SysML muss es doch mehr geben. Wie sind die Erfahrungen damit? Wie hilfreich sind diese Sprachen und welche Teile sind davon hilfreich. Wie gehe ich mit funktionalen Sprachen um, oder wie modelliere ich das Wirrwarr von Microservices. Die OMG arbeitet an einem Nachfolger der UML; gibt es Erfahrungen damit. Wo kommen neue Modellierungssprachen wie Decision Model and Notation (kurz DMN) zum Einsatz
+Seit über 20 Jahren gilt UML als der Standard für die Modellierung von Software-Systemen. Andere Modellierungssprachen positionieren sich entweder als leichtgewichtige Alternativen (z. B. C4), als vollständigen Ersatz oder für einen bestimmten Anwendungsbereich bzw. Domäne (z. B. BPMN, SysML, ArchiMate).
 
+Die Verwendung von Modellierungssprachen ist nicht immer beliebt. Sie werden oft als zu kompliziert oder aufwändig angesehen. Dennoch lassen sich große Projekte ohne Modellierung nicht umsetzen. Zu spät wird oft erkannt, dass man die Zusammenhänge im Projekt nicht mehr durchschaut und ein geeignetes Modell hier hätte helfen können. Noch besser wäre es gewesen, schon beizeiten mit der Modellierung zu beginnen, um die Kommunikation im Projekt zu fördern.
 
-==== Welche Herausforderung verbindet sich mit dem Thema?
-- Welche Alternativen gibt es zu UML? +
-  (Kommentar von Hermann: Wichtiger finde ich die selber gemachte Erfahrung damit. Die Liste der Alternativen läst sich leicht im Internet finden)
-- Welche Vor-und Nachteile haben sie? +
-  (Kommentar von Hermann: Nicht allgemein, sonder im eigenen Projekt)
-- Für welche Einsatzzwecke sind sie geeignet? +
-  (Kommentar von Hermann: Auch hier die Erfahrung im eigenen Projekt. Ansonsten müsste man eine Studie machen - wäre vielleicht interessant)
-- Welchen Stellenwert wird UML in Zukunft haben? +
-  (Kommentar von Hermann: ich glaube, das kann eine gleine Gruppe nicht seriös beantworten)
+==== Aufgabenstellung
 
+Die Themenarbeitsgruppe soll folgende Fragen diskutieren und die Erkenntnisse aufbereiten:
+- Welche Erfahrungen wurden in den eigenen Projekten mit UML und deren Alternativen gemacht?
+- Wann reichen informelle Modelle und wann ist eine formelle Modellierungssprache zu empfehlen?
+- Wie lassen sich Entwicklungsteams davon überzeugen zumindest teilweise UML zu verwenden?
+- Welche bewährte Praktiken gibt es beim Einsatz von UML?
 
-==== Wo tritt das Problem im Markt auf, und wer hat ein Interesse an der Lösung des Problems?
-Projektleiter werden nervös, wenn im Projekt mit UML 'gemalt' wird, statt Code zu erzeugen. Deshalb wird der einsatz von Modellierwerkzeugen oft gemieden. Hinzu kommt der große Lernaufwand, um mit der Modelliersprache umgehen zu können. Das beste Tool nützt auch nichts, wenn es an Talent fehlt, damit umzugehen. Modelliersprachen sind ein Ausdrucksmittel, dass die Kommunikationsfähigkeit steigern soll.
+==== Referenzen
 
-Größere Projekte, in denen auf die Modellierung verzichtet wird, werden früher, zäh, unverständlich, ineffektiv und nicht mehr wartbar. Wo gibt es nachvollziehbare Beispiele für den sinnvollen Einsatz von Modellierungssprachen im Projekt? Läßt sich das monitär berechnen, um so als Vorbild zu dienen?
-
-Interessant für: RE, PO, Projektleiter, Architekten, Operation, Entwickler, Tester
-
-
-==== Welchen Beitrag leistet die Bearbeitung des Themas? Was wird besser, wenn dieses Thema bearbeitet wurde?
-
-
-==== Optionale Angaben zu Links, Literatur, Verweisen aller Art
 - UML (Unified Modelling Language), https://www.uml.org/
 - C4 model, https://c4model.com/
 - FMC (Fundamental Modelling Concepts), http://www.fmc-modeling.org
@@ -42,5 +29,6 @@ Interessant für: RE, PO, Projektleiter, Architekten, Operation, Entwickler, Tes
 - Precise Semantics of UML Composite Structures (PSCS)
 - Precise Semantics of UML State Machines (PSSM)
 
-==== Empfohlene Größe der Thema-Arbeitsgruppe
-4-7 Personen
+==== Gruppengröße
+
+Das Thema soll von einer Gruppe mit 4-7 Personen bearbeiten.

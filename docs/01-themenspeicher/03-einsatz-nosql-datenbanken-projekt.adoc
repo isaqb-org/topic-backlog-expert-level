@@ -1,33 +1,32 @@
 // tag::DE[]
 === Einsatz unterschiedlicher NoSQL Datenbanken im Projekt
-Themeneinreicher: Unknown User (hwoock) 
+Themeneinreicher: Hermann Woock
 
-Status: EINGEREICHT
+Status: Freigegeben
 
-==== Kurzbeschreibung
-NoSQL-Datenbanken sind längst kein Novum mehr. In vielen Projekten sind sie Standard, in vielen aber auch nicht. Welche Möglichkeiten stecken in solchen Datenbanken und was bringen sie für einen Gewinn. Welche Typen von NoSQL Datenbanken gibt es und wofür können sie eingesetzt werden. Gibt es Gefahren, auf die man achten sollte?
+==== Hintergrund
+NoSQL-Datenbanken sind längst kein Novum mehr. In vielen Projekten sind sie Standard, in vielen aber auch nicht. 
 
-==== Welche Herausforderung verbindet sich mit dem Thema?
-Welche Probleme lassen sich mit NoSQL-Datenbanken lösen und welche neuen Probleme bekomme ich? Ein Überblick wäre hier hilfreich.
-
-Wie kann man den besten Nutzen aus NoSQL-Datenbanken ziehen?
-
-Welche Skills und welches Know-how sind mit diesen Datenbanken erforderlich?
-
-Wie müssen NoSQL-Datenbanken in die Architektur eingebunden werden?
-
-Weitere Themen in diesem Zusammenhang sind Event Sourcing, Eventually Consistency, Skalierbarkeit, Ausfallsicherheit, Lizenzen oder BASE
-
-==== Wo tritt das Problem im Markt auf, und wer hat ein Interesse an der Lösung des Problems?
-Geplanter Umstieg auf eine NoSQL-Datenbank aus Gründen der Kosten, Komplexität von SQL-Datenbanken, Möglichkeiten der NoSQL-Datenbanken.
+Wer bislang nur mit relationalen Datenbanken zu tun hatte, kann sich oft nicht vorstellen, wie der Einsatz von NoSQL-Datenbanken gelingen kann:
+- Welche Möglichkeiten stecken in solchen Datenbanken und was bringen sie für einen Gewinn?
+- Welche Typen von NoSQL Datenbanken gibt es und wofür können sie eingesetzt werden?
+- Gibt es Gefahren, auf die man achten sollte?
 
 Das Thema ist interessant für Architekten, Entwicklung, Betrieb, DB-Administratoren
 
-==== Welchen Beitrag leistet die Bearbeitung des Themas? Was wird besser, wenn dieses Thema bearbeitet wurde?
-Wer bislang nur mit Relationalen Datenbanken zu tun hatte, kann sich oft nicht vorstellen, wie der Einsatz von NoSQL-Datenbanken gelingen kann. Ein paar gelungene Beispiele aus der Praxis mit Tips und Tricks, Pros und Cons würden weiterhelfen.
+==== Aufgabenstellung
+Es sollen diese Fragen beantwortet werden:
+- Welche Probleme lassen sich mit NoSQL-Datenbanken lösen und welche neuen Probleme bekomme ich?
+- Wie kann man den besten Nutzen aus NoSQL-Datenbanken ziehen?
+- Welche Fähigkeiten und Wissen sind erforderlich?
+- Wie müssen NoSQL-Datenbanken in die Architektur berücksichtigt werden?
 
-==== Optionale Angaben zu Links, Literatur, Verweisen aller Art
+Weitere Themen in diesem Zusammenhang sind Event Sourcing, Eventually Consistency, Skalierbarkeit, Ausfallsicherheit, Lizenzen oder BASE
+
+Ein paar gelungene Beispiele aus der Praxis mit Tipps und Tricks würden weiterhelfen.
+
+==== Referenzen
 Fowler, M., & Sadalage, P. J. (2012). NoSQL distilled.  Pearson Education. 
 
-==== Empfohlene Größe der Thema-Arbeitsgruppe
-7 Personen
+==== Gruppengröße
+Das Thema soll von einer Gruppe mit 5-7 Personen bearbeitet werden.

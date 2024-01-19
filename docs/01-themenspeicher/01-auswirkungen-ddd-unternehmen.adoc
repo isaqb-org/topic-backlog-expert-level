@@ -1,32 +1,31 @@
 // tag::DE[]
 === Auswirkungen von DDD auf das Unternehmen
 
-Themeneinreicher: Hermann Wook (hwoock) 
+Themeneinreicher: Hermann Woock
 
-Status: EINGEREICHT
+Status: Freigegeben
 
-==== Kurzbeschreibung
-Software Projekte werden mit der Zeit in der Regel zäher, zerbrechlicher, fehleranfälliger, … Der Grund liegt oft in zu vielen Abhängigkeiten, schlechter Kohäsion und hoher Kopplung. DDD bietet dort Abhilfe und ist auch meist ein guter Einstieg für die immer beliebter werdenden µServices. DDD ist aber mehr als nur das Schneiden von Komponenten. Vieles davon wird sehr oft übersehen. DDD erfordert außerdem ein oft unterschätztes Maß an Agilität.
+==== Hintergrund
 
-==== Welche Herausforderung verbindet sich mit dem Thema?
-DDD beinhaltet Themen wie: Deep Insight, Break Through, Supple Design, Large Structures, … Diese werden oft übersehen. Dadurch verliert DDD viel von seiner Stärke.
+Software Projekte werden mit der Zeit in der Regel zäher, zerbrechlicher und fehleranfälliger. Der Grund liegt oft in zu vielen Abhängigkeiten, schlechter Kohäsion und hoher Kopplung. Domain-Driven Design (DDD) verspricht hier Abhilfe.
 
-Außerdem ist DDD ein sehr agiler Ansatz, der bei richtiger Umsetzung starken Einfluss auf Arbeitsabläufe und Firmenstrukturen hat. Dadurch kann DDD scheitern.
+DDD ist aber mehr als nur das Schneiden von Komponenten. Vieles davon wird oft übersehen, wodurch viele seiner Stärken nicht ausgenutzt werden können: Deep Insight, Break Through, Supple Design, Large Structures.
 
-==== Wo tritt das Problem im Markt auf, und wer hat ein Interesse an der Lösung des Problems?
-Das Problem tritt überall dort auf, wo DDD zum Einsatz kommt und die entsprechende Erfahrung in dessen Umsetzung fehlt.
+Außerdem ist DDD ein sehr agiler Ansatz, der bei richtiger Umsetzung starken Einfluss auf Arbeitsabläufe und Firmenstrukturen hat. 
 
-Von Nutzen ist das Thema für: Firma, Manager, SW-Entwicklung, Anwender
+==== Aufgabensellung
 
-==== Welchen Beitrag leistet die Bearbeitung des Themas? Was wird besser, wenn dieses Thema bearbeitet wurde?
-Durch die Bearbeitung des Themas soll gezeigt werden, was mit DDD erreicht werden kann. Welche Probleme gelöst werden. Ebenso sollen aber auch die Auswirkungen aufs Unternehmen gezeigt werden, oder warum DDD scheitern kann. Welche Voraussetzungen müssen gegeben sein, damit DDD seinen Nutzen bringt?
+Durch die Bearbeitung des Themas soll gezeigt werden, welche Probleme mit DDD gelöst und was mit DDD erreicht werden kann.
 
-==== Optionale Angaben zu Links, Literatur, Verweisen aller Art
+Ebenso sollen aber auch die Auswirkungen aufs Unternehmen gezeigt werden, oder warum DDD scheitern kann. Welche Voraussetzungen müssen gegeben sein, damit DDD seinen Nutzen bringt?
+
+Das Thema soll u. a. aus Sicht einer Organisation, des Managements, der Software-Entwickler und der Anwender beleuchtet werden.
+
+==== Referenzen
+
 Evans, E. (2003). Domain-Driven Design: Tackling Complexity in the Heart of Software. Pearson ITP. 
 
 Vernon, V. (2013). Implementing Domain-Driven Design. Pearson ITP. 
 
-==== Sind Sie generell daran interessiert, an einer Themengruppe für Ihr eingereichtes Thema mitzuwirken?
-
-==== Empfohlene Größe der Thema-Arbeitsgruppe
-5-7 Personen
+==== Gruppengröße
+Das Thema soll von einer Gruppe mit 5-7 Personen bearbeitet werden.

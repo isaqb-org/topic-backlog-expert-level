@@ -1,13 +1,12 @@
 // tag::DE[]
-=== SOLID versus CUPID
-Themeneinreicher: Johannes Hochrainer (jhochrainer) 
+=== Sind SOLID-Prinzipien noch zeitgemäß?
+Themeneinreicher: Johannes Hochrainer
 
-Datum der Einreichung: 17 Mar 2022 
-
-Status: EINGEREICHT
+Status: Freigegeben
 
 ==== Hintergrund
-In den letzten Jahren gab es vermehrt Stimmen, die behaupteten, dass die SOLID-Prinzipien nicht mehr zeitgemäß wären. 2021 sorgte schließlich Dan North für Aufregung, als er behauptete, jedes einzelne SOLID-Prinzip wäre falsch. Nach etwas Zeit legte er nach und schlug als Alternative seine sogenannten „CUPID-Properties“ vor:
+
+In den letzten Jahren gab es vermehrt Stimmen, die behaupteten, dass die SOLID-Prinzipien nicht mehr zeitgemäß wären. So sorgte etwa 2021 Dan North für Aufregung, als er behauptete, jedes einzelne SOLID-Prinzip wäre falsch. Nach etwas Zeit legte er nach und schlug als Alternative seine sogenannten „CUPID-Properties“ vor:
 
 - Composable
 - Unix Philosophy
@@ -16,17 +15,21 @@ In den letzten Jahren gab es vermehrt Stimmen, die behaupteten, dass die SOLID-P
 - Domain-based
 
 ==== Aufgabenstellung
+
 Die Themenarbeitsgruppe soll folgende Fragen klären:
 
 - Welche Kritikpunkte gibt es an SOLID und können sie wissenschaftlich bestätigt werden?
 - Erfüllt CUPID alle Anforderungen, um als Orientierung bei der Software-Entwicklung zu dienen?
 - Gibt es Gemeinsamkeiten zwischen SOLID und CUPID?
-- Gibt es Einsatzgebiete die sich besonders für SOLID oder für CUPID eignen?
+- Gibt es Einsatzgebiete, die sich besonders für SOLID oder für CUPID eignen?
+- Gibt es auch andere Sammlungen von Prinzipien, an denen sich Entwickler orientieren können?
 
 ==== Referenzen
+
 - Principles Of Object Oriented Design, http://wiki.c2.com/?PrinciplesOfObjectOrientedDesign
 - CUPID—the back story, https://dannorth.net/2021/03/16/cupid-the-back-story/
 - CUPID—for joyful coding, https://dannorth.net/2022/02/10/cupid-for-joyful-coding/
 
-==== Empfohlene Größe der Thema-Arbeitsgruppe
-3-5 Personen
+==== Gruppengröße
+
+Das Thema soll von einer Gruppe mit 3-5 Personen bearbeiten werden.
