@@ -3,13 +3,13 @@
 include::config/setup.adoc[]
 
 ifeval::["{language}" == "DE"]
-= Topic Backlog forpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture^(R)^pass:q[<br>]_Expert Level_
+= Themenspeicher für pass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture^(R)^pass:q[<br>]_Expert Level_
 :toc-title: Inhaltsverzeichnis
 :toc: left
 endif::[]
 
 ifeval::["{language}" == "EN"]
-= Topic Backlog forpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture^(R)^pass:q[<br>]_Expert Level_
+= Topic Backlog for pass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture^(R)^pass:q[<br>]_Expert Level_
 :toc: left
 endif::[]
 

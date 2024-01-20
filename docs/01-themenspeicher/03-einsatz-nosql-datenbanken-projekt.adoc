@@ -29,4 +29,41 @@ Ein paar gelungene Beispiele aus der Praxis mit Tipps und Tricks würden weiterh
 Fowler, M., & Sadalage, P. J. (2012). NoSQL distilled.  Pearson Education. 
 
 ==== Gruppengröße
-Das Thema soll von einer Gruppe mit 5-7 Personen bearbeitet werden.
+Das Thema sollte von einer Gruppe mit 3-5 Personen bearbeitet werden.
+// end::DE[]
+
+// tag::EN[]
+=== Use of Different NoSQL Databases in the Project
+Submitter: Hermann Woock
+
+Status: Released
+
+==== Background
+NoSQL databases are no longer a novelty. In many projects, they are standard, but in many others, they are not.
+
+For those who have only dealt with relational databases, it's often hard to imagine how the use of NoSQL databases can be successful:
+
+- What possibilities do these databases offer and what benefits do they bring?
+- What types of NoSQL databases are there and what can they be used for?
+- Are there dangers one should be aware of?
+
+This topic is of interest to architects, developers, operations, DB administrators.
+
+==== Assignment
+These questions should be answered:
+
+- What problems can be solved with NoSQL databases and what new problems might arise?
+- How can one get the best use out of NoSQL databases?
+- What skills and knowledge are required?
+- How must NoSQL databases be considered in the architecture?
+
+Other topics in this context include Event Sourcing, Eventual Consistency, Scalability, Fail-Safety, Licenses, or BASE.
+
+A few successful practical examples with tips and tricks would be helpful.
+
+==== References
+Fowler, M., & Sadalage, P. J. (2012). NoSQL Distilled. Pearson Education.
+
+==== Group Size
+The topic should be handled by a group of 3-5 people.
+// end::EN[]

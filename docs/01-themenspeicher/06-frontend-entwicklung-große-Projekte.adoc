@@ -1,18 +1,23 @@
 // tag::DE[]
 === Frontend-Entwicklung in großen Projekten
+
 Themeneinreicher: Johannes Hochrainer
 
 Status: Freigegeben
 
-===== Hintergrund
+==== Hintergrund
 
-Große Softwaresysteme werden in der Regel von mehreren Entwicklungsteams umgesetzt. Während sich im Backend Feature-Teams durchgesetzt haben, wird in vielen Projekten das Frontend von einem einzigen Team entwickelt. Doch auch im Frontend setzt sich immer mehr der Microservice-Gedanke durch: Unabhängige Teams arbeiten an einem fachlichen Frontend-Baustein und können ihren Baustein unabhängig von den anderen Teams entwickeln und ausliefern. Für die Umsetzung dieser sogenannten Microfrontend-Architektur gibt es verschiedenste methodische und technische Ansätze.
+Große Softwaresysteme werden in der Regel von mehreren Entwicklungsteams umgesetzt.
+Während sich im Backend Feature-Teams durchgesetzt haben, wird in vielen Projekten das Frontend von einem einzigen Team entwickelt.
+Doch auch im Frontend setzt sich immer mehr der Microservice-Gedanke durch: Unabhängige Teams arbeiten an einem fachlichen Frontend-Baustein und können ihren Baustein unabhängig von den anderen Teams entwickeln und ausliefern.
+Für die Umsetzung dieser sogenannten Microfrontend-Architektur gibt es verschiedenste methodische und technische Ansätze.
 
-===== Aufgabenstellung
+==== Aufgabenstellung
 
 Folgende Fragen sollen beantwortet werden:
 
-* Wie kann ein Frontend flexibel und effizient mit verschiedenen Entwicklungsteams umgesetzt werden? Dazu gehören u. a. Folgende:
+* Wie kann ein Frontend flexibel und effizient mit verschiedenen Entwicklungsteams umgesetzt werden?
+Dazu gehören u. a. Folgende:
 ** Micro Frontends
 ** Self-Contained Systems
 ** Backends for Frontends Pattern
@@ -21,7 +26,7 @@ Folgende Fragen sollen beantwortet werden:
 ** Monorepos (z. B. mit Nx)
 * Wie baut man ein bestehendes monolithisches Frontend zu einem sauber modularisierten, parallel entwickelbaren Frontend um?
 
-===== Referenzen
+==== Referenzen
 
 - Micro Frontends, https://micro-frontends.org/
 - Self Contained Systems, https://scs-architecture.org/
@@ -32,4 +37,46 @@ Folgende Fragen sollen beantwortet werden:
 
 ==== Gruppengröße
 
-Das Thema soll von einer Gruppe mit 5 bis 7 Personen bearbeitet werden.
+Das Thema sollte von einer Gruppe mit 3 bis 5 Personen bearbeitet werden.
+// end::DE[]
+
+// tag::EN[]
+=== Frontend Development in Large Projects
+
+Submitter: Johannes Hochrainer
+
+Status: Approved
+
+==== Background
+
+Large software systems are typically implemented by multiple development teams.
+While feature teams have become established in backend development, in many projects the frontend is developed by a single team.
+However, the concept of microservices is increasingly being adopted in frontend development as well: Independent teams work on a functional frontend component and can develop and deliver their component independently of other teams.
+There are various methodological and technical approaches to implementing this so-called microfrontend architecture.
+
+==== Assignment
+
+The following questions should be answered:
+
+* How can a frontend be implemented flexibly and efficiently with various development teams?
+This includes, among others:
+** Micro Frontends
+** Self-Contained Systems
+** Backends for Frontends Pattern
+** Internal Organizational Component Libraries (similar to Angular Material)
+** Webpack Module Federation
+* Monorepos (e.g., with Nx) *How do you convert an existing monolithic frontend into a cleanly modularized, parallel-developable frontend?
+
+==== References
+
+- Micro Frontends, https://micro-frontends.org/
+- Self Contained Systems, https://scs-architecture.org/
+- Backends for Frontends Pattern - Cloud Design Patterns, https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends
+- Angular Material, https://material.angular.io/
+- Nx Monorepo, https://nx.dev/
+- Webpack Module Federation, https://webpack.js.org/concepts/module-federation/
+
+==== Group Size
+
+The topic should be handled by a group of 3 to 5 people.
+// end::EN[]

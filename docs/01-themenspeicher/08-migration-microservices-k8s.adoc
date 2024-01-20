@@ -21,3 +21,29 @@ Liebel, O. (2023). Skalierbare Container-Infrastrukturen: Das Handbuch für Admi
 ==== Gruppengröße
 
 Das Thema soll von einer Gruppe mit 6-7 Personen bearbeiten.
+// end::DE[]
+
+// tag::EN[]
+=== Migration to Microservices on Kubernetes
+Submitter: Hermann Woock
+
+Status: Approved
+
+==== Background
+
+Markets are becoming more complex, and software in the business and technology sector is getting more complicated. This often necessitates companies to seek the solution for their software projects in a Microservices Architecture (µService).
+
+µServices are usually implemented with Kubernetes (K8s). Kubernetes is a highly complicated and complex framework. Developers are often overwhelmed with its installation, use, and operation, leading to projects that can easily fail or become unprofitable. An intense exchange between roles in requirement management, architecture, development, testing, and operation is therefore necessary. Lack of agility and rigid structures in the company make things more difficult. Initial approaches exist in DevOps, but more will be needed.
+
+==== Assignment
+
+Participants are to process the problems, approaches, and solutions from their projects and create a guideline.
+
+==== References
+
+Liebel, O. (2023). Scalable Container Infrastructures: The Handbook for Administrators (4th Edition). Rheinwerk Computing.
+
+==== Group Size
+
+The topic should be handled by a group of 6-7 persons.
+// end::EN[]

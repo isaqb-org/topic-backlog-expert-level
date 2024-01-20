@@ -1,0 +1,72 @@
+// tag::DE[]
+=== Modellierungssprachen
+Themeneinreicher: Johannes Hochrainer
+
+Status: Freigegeben
+
+==== Hintergrund
+
+Seit über 20 Jahren gilt UML als der Standard für die Modellierung von Software-Systemen. Andere Modellierungssprachen positionieren sich entweder als leichtgewichtige Alternativen (z. B. C4), als vollständigen Ersatz oder für einen bestimmten Anwendungsbereich bzw. Domäne (z. B. BPMN, SysML, ArchiMate).
+
+Die Verwendung von Modellierungssprachen ist nicht immer beliebt. Sie werden oft als zu kompliziert oder aufwändig angesehen. Dennoch lassen sich große Projekte ohne Modellierung nicht umsetzen. Zu spät wird oft erkannt, dass man die Zusammenhänge im Projekt nicht mehr durchschaut und ein geeignetes Modell hier hätte helfen können. Noch besser wäre es gewesen, schon beizeiten mit der Modellierung zu beginnen, um die Kommunikation im Projekt zu fördern.
+
+==== Aufgabenstellung
+
+Die Themenarbeitsgruppe soll folgende Fragen diskutieren und die Erkenntnisse aufbereiten:
+- Welche Erfahrungen wurden in den eigenen Projekten mit UML und deren Alternativen gemacht?
+- Wann reichen informelle Modelle und wann ist eine formelle Modellierungssprache zu empfehlen?
+- Wie lassen sich Entwicklungsteams davon überzeugen zumindest teilweise UML zu verwenden?
+- Welche bewährte Praktiken gibt es beim Einsatz von UML?
+
+==== Referenzen
+
+- UML (Unified Modelling Language), https://www.uml.org/
+- C4 model, https://c4model.com/
+- FMC (Fundamental Modelling Concepts), http://www.fmc-modeling.org
+- ArchiMate, https://www.opengroup.org/archimate-forum/archimate-overview
+- Semantics of a Foundational Subset for Executable UML Models (fUML)
+- Action Language for Foundational UML (ALF)
+- Precise Semantics of UML Composite Structures (PSCS)
+- Precise Semantics of UML State Machines (PSSM)
+
+==== Gruppengröße
+
+Das Thema sollte von einer Gruppe mit 4-7 Personen bearbeitet werden.
+// end::DE[]
+
+// tag::EN[]
+=== Modeling Languages
+Submitter: Johannes Hochrainer
+
+Status: Approved
+
+==== Background
+
+For over 20 years, UML has been considered the standard for modeling software systems. Other modeling languages position themselves either as lightweight alternatives (e.g., C4), as complete replacements, or for a specific application area or domain (e.g., BPMN, SysML, ArchiMate).
+
+The use of modeling languages is not always popular. They are often seen as too complicated or cumbersome. Nevertheless, large projects cannot be implemented without modeling. Often too late, it is recognized that the interrelationships in the project are no longer comprehensible, and a suitable model could have helped here. It would have been even better to start modeling early on to promote communication in the project.
+
+==== Assignment
+
+The working group should discuss the following questions and prepare the findings:
+
+- What experiences have been made with UML and its alternatives in their own projects?
+- When are informal models sufficient, and when is a formal modeling language recommended?
+- How can development teams be convinced to use at least some UML?
+- What are the proven practices in the use of UML?
+
+==== References
+
+- UML (Unified Modelling Language), https://www.uml.org/
+- C4 model, https://c4model.com/
+- FMC (Fundamental Modelling Concepts), http://www.fmc-modeling.org
+- ArchiMate, https://www.opengroup.org/archimate-forum/archimate-overview
+- Semantics of a Foundational Subset for Executable UML Models (fUML)
+- Action Language for Foundational UML (ALF)
+- Precise Semantics of UML Composite Structures (PSCS)
+- Precise Semantics of UML State Machines (PSSM)
+
+==== Group Size
+
+The topic should be handled by a group of 4-7 persons.
+// end::EN[]

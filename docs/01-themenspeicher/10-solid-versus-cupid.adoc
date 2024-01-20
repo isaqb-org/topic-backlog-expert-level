@@ -33,3 +33,41 @@ Die Themenarbeitsgruppe soll folgende Fragen klären:
 ==== Gruppengröße
 
 Das Thema soll von einer Gruppe mit 3-5 Personen bearbeiten werden.
+// end::DE[]
+
+// tag::EN[]
+=== Are SOLID Principles Still Relevant?
+Submitter: Johannes Hochrainer
+
+Status: Approved
+
+==== Background
+
+In recent years, there have been increasing voices claiming that the SOLID principles are no longer contemporary. For instance, in 2021, Dan North caused a stir when he claimed that every single SOLID principle was wrong. After some time, he followed up and proposed his so-called "CUPID-Properties" as an alternative:
+
+- Composable
+- Unix Philosophy
+- Predictable
+- Idiomatic
+- Domain-based
+
+==== Assignment
+
+The working group should clarify the following questions:
+
+- What are the criticisms of SOLID, and can they be scientifically validated?
+- Does CUPID meet all the requirements to serve as a guide in software development?
+- Are there commonalities between SOLID and CUPID?
+- Are there areas of application that are particularly suitable for SOLID or for CUPID?
+- Are there other collections of principles that developers can follow?
+
+==== References
+
+- Principles Of Object-Oriented Design, http://wiki.c2.com/?PrinciplesOfObjectOrientedDesign
+- CUPID—the back story, https://dannorth.net/2021/03/16/cupid-the-back-story/
+- CUPID—for joyful coding, https://dannorth.net/2022/02/10/cupid-for-joyful-coding/
+
+==== Group Size
+
+The topic should be handled by a group of 3-5 persons.
+// end::EN[]

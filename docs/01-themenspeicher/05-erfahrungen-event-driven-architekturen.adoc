@@ -1,16 +1,25 @@
 // tag::DE[]
 === Erfahrungen mit Event-Driven Architekturen
+
 Themeneinreicher: Hermann Woock
 
-Status: Freigegeben
+Status: Approved
 
-===== Hintergrund
+==== Hintergrund
 
-Nicht erst seit der Veröffentlichung von Vernons Buch „Implementing Domain-Driven Design“ mit dem Vorwort von Eric Evans sind Event-Driven Architekturen von Interesse. Event-Driven Architekturen (EDA) bieten ein hohes Maß an Flexibilität in der Software. Sei es im Programmablauf oder in der Datenerfassung. EDAs werden in vielen Orten bereits erfolgreich eingesetzt. Auch Cloud Provider bieten Lösungen an. Immer mehr Frameworks kommen hierzu auf den Markt. Monitoring, BI und viele weitere Bereiche machen von EDAs Gebrauch.
+Nicht erst seit der Veröffentlichung von Vernons Buch „Implementing Domain-Driven Design“ mit dem Vorwort von Eric Evans sind Event-Driven Architekturen von Interesse.
+Event-Driven Architekturen (EDA) bieten ein hohes Maß an Flexibilität in der Software.
+Sei es im Programmablauf oder in der Datenerfassung.
+EDAs werden in vielen Orten bereits erfolgreich eingesetzt.
+Auch Cloud Provider bieten Lösungen an.
+Immer mehr Frameworks kommen hierzu auf den Markt.
+Monitoring, BI und viele weitere Bereiche machen von EDAs Gebrauch.
 
-Event-Driven Architekturen helfen dabei, flexible Systeme zu schaffen, die sich an Veränderungen anpassen und Entscheidungen in Echtzeit treffen können. Ereignisse werden erfasst, sobald sie von Ereignisquellen wie Internet-of-Things-Geräten (IoT), Anwendungen und Netzwerken eintreten, sodass Event-Produzenten und Event-Consumer Status- und Reaktionsinformationen in Echtzeit austauschen können. In diesem Kontext wird auch häufig über die Konzepte des Event Sourcings und CQRS gesprochen, die weitere Herausforderungen bieten, aber auch spannende Vorteile versprechen.
+Event-Driven Architekturen helfen dabei, flexible Systeme zu schaffen, die sich an Veränderungen anpassen und Entscheidungen in Echtzeit treffen können.
+Ereignisse werden erfasst, sobald sie von Ereignisquellen wie Internet-of-Things-Geräten (IoT), Anwendungen und Netzwerken eintreten, sodass Event-Produzenten und Event-Consumer Status- und Reaktionsinformationen in Echtzeit austauschen können.
+In diesem Kontext wird auch häufig über die Konzepte des Event Sourcings und CQRS gesprochen, die weitere Herausforderungen bieten, aber auch spannende Vorteile versprechen.
 
-===== Aufgabenstellung
+==== Aufgabenstellung
 
 Diese Fragen sollen behandelt werden:
 
@@ -23,12 +32,64 @@ Diese Fragen sollen behandelt werden:
 ** Versionierung
 ** Inhalte von Events
 
-===== Referenzen
+==== Referenzen
 
-Vernon, V. (2013). Implementing Domain-Driven Design. Pearson ITP. 
+Vernon, V. (2013).
+Implementing Domain-Driven Design.
+Pearson ITP.
 
-Domogalla, M. (2022, April 21). Software-Architektur.tv: Softwarearchitektur MIT events, event sourcing UND CQRS. Developer. https://www.heise.de/news/software-architektur-tv-Softwarearchitektur-mit-Events-Event-Sourcing-und-CQRS-7061126.html 
+Domogalla, M. (2022, April 21).
+Software-Architektur.tv: Softwarearchitektur MIT events, event sourcing UND CQRS.
+Developer. https://www.heise.de/news/software-architektur-tv-Softwarearchitektur-mit-Events-Event-Sourcing-und-CQRS-7061126.html
 
-===== Gruppengröße
+==== Gruppengröße
 
-Das Thema soll von einer Gruppe mit 3 bis 7 Personen bearbeitet werden.
+Das Thema sollte von einer Gruppe mit 3 bis 7 Personen bearbeitet werden.
+// end::DE[]
+
+// tag::EN[]
+=== Experiences with Event-Driven Architectures
+
+Submitter: Hermann Woock
+
+Status: Approved
+
+==== Background
+
+Interest in Event-Driven Architectures (EDA) didn't just start with the publication of Vernon's book "Implementing Domain-Driven Design," featuring a foreword by Eric Evans.
+Event-Driven Architectures offer a high degree of flexibility in software, whether in program execution or data capture.
+EDAs are already being successfully used in many places.
+Cloud providers offer solutions, and more and more frameworks are coming to the market.
+Monitoring, Business Intelligence (BI), and many other areas make use of EDAs.
+
+Event-Driven Architectures help create flexible systems that can adapt to changes and make real-time decisions.
+Events are captured as soon as they occur from event sources such as Internet-of-Things (IoT) devices, applications, and networks, allowing event producers and event consumers to exchange status and response information in real-time.
+In this context, the concepts of Event Sourcing and CQRS are often discussed, presenting further challenges but also promising exciting advantages.
+
+==== Assignment
+
+These questions should be addressed:
+
+* For what purposes is this architectural style suitable?
+* What patterns and technologies can be used?
+* How do the following points fit into this topic: CQRS, Event Sourcing, SAGA, Messaging, Reactive Programming, Kafka?
+* How are the following problems solved?
+** Message Ordering
+** Idempotence
+** Versioning
+** Contents of Events
+
+==== References
+
+Vernon, V. (2013).
+Implementing Domain-Driven Design.
+Pearson ITP.
+
+Domogalla, M. (2022, April 21).
+Software-Architektur.tv: Software Architecture with Events, Event Sourcing, and CQRS.
+Developer. https://www.heise.de/news/software-architektur-tv-Softwarearchitektur-mit-Events-Event-Sourcing-und-CQRS-7061126.html
+
+==== Group Size
+
+The topic should be handled by a group of 3 to 7 people.
+// end::EN[]

@@ -2,7 +2,7 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-:sectnums:
+:sectnums!:
 // tag::DE[]
 == Themenspeicher
 // end::DE[]
@@ -10,6 +10,8 @@
 // tag::EN[]
 == Topic Backlog
 // end::EN[]
+
+:sectnums:
 
 include::01-auswirkungen-ddd-unternehmen.adoc[{include_configuration}]
 
@@ -32,7 +34,7 @@ include::07-maschinelles-lernen-in-der-praxis.adoc[{include_configuration}]
 include::08-migration-microservices-k8s.adoc[{include_configuration}]
 
 <<<
-include::09.modellierungssprachen.adoc[{include_configuration}]
+include::09-modellierungssprachen.adoc[{include_configuration}]
 
 <<<
 include::10-solid-versus-cupid.adoc[{include_configuration}]
