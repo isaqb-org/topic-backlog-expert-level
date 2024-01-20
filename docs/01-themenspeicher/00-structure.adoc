@@ -2,7 +2,7 @@
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
-:sectnums!:
+:sectnums:
 // tag::DE[]
 == Themenspeicher
 // end::DE[]
@@ -11,8 +11,7 @@
 == Topic Backlog
 // end::EN[]
 
-:sectnums:
-
+<<<
 include::01-auswirkungen-ddd-unternehmen.adoc[{include_configuration}]
 
 <<<

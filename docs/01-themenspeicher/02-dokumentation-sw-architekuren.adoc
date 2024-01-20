@@ -14,11 +14,11 @@ Was sind Qualitätsmerkmale für eine gute Dokumentation der Architektur und wie
 
 Folgende Fragen sollen behandelt werden:
 
-- Welche Formen eignen sich für die Dokumentation von SW-Architekturen (Format, Ablageort, Struktur, verwendete Notationen)?
-- Wie nutzt man Dokumentation als Kommunikationsmittel und nicht als Ablage?
-- Wie werden Entscheidungen und Prinzipien dokumentiert?
-- Wie können die Artefakte der SW-Architekturdokumentation mit anderen Artefakten (Anforderungen, Fehlerberichte, Testfälle, ...) verknüpft werden (Traceability)?
-- Wie identifiziert man die notwendigen Inhalte und bestimmt den Detaillierungsgrad der Dokumentation?
+* Welche Formen eignen sich für die Dokumentation von SW-Architekturen (Format, Ablageort, Struktur, verwendete Notationen)?
+* Wie nutzt man Dokumentation als Kommunikationsmittel und nicht als Ablage?
+* Wie werden Entscheidungen und Prinzipien dokumentiert?
+* Wie können die Artefakte der SW-Architekturdokumentation mit anderen Artefakten (Anforderungen, Fehlerberichte, Testfälle, ...) verknüpft werden (Traceability)?
+* Wie identifiziert man die notwendigen Inhalte und bestimmt den Detaillierungsgrad der Dokumentation?
 
 ==== Referenzen
 
@@ -52,11 +52,11 @@ What are the quality characteristics of good architectural documentation, and ho
 
 The following questions should be addressed:
 
-- What forms are suitable for the documentation of software architectures (format, storage location, structure, used notations)?
-- How is documentation used as a means of communication and not just as a repository?
-- How are decisions and principles documented?
-- How can the artifacts of software architecture documentation be linked with other artifacts (requirements, bug reports, test cases, etc.) (traceability)?
-- How to identify the necessary contents and determine the level of detail of the documentation?
+* What forms are suitable for the documentation of software architectures (format, storage location, structure, used notations)?
+* How is documentation used as a means of communication and not just as a repository?
+* How are decisions and principles documented?
+* How can the artifacts of software architecture documentation be linked with other artifacts (requirements, bug reports, test cases, etc.) (traceability)?
+* How to identify the necessary contents and determine the level of detail of the documentation?
 
 ==== References
 

@@ -16,11 +16,11 @@ Der Beitrag soll Mut machen, einen Einstieg in dieses Thema zu finden.
 
 Es gibt viele Dinge zu klären:
 
-- Welche Probleme lassen sich mit ML lösen?
-- Welcher Aufwand steckt dahinter?
-- Welche Fähigkeiten und Wissen sind bei der Umsetzung erforderlich?
-- Welche rechtlichen Einflüsse müssen beachtet werden?
-- Was sind die Erfolgsfaktoren?
+* Welche Probleme lassen sich mit ML lösen?
+* Welcher Aufwand steckt dahinter?
+* Welche Fähigkeiten und Wissen sind bei der Umsetzung erforderlich?
+* Welche rechtlichen Einflüsse müssen beachtet werden?
+* Was sind die Erfolgsfaktoren?
 
 ==== Referenzen
 
@@ -48,11 +48,11 @@ The contribution should encourage finding an entry point into this topic.
 
 There are many things to clarify:
 
-- What problems can be solved with ML?
-- What effort is involved?
-- What skills and knowledge are required for implementation?
-- What legal considerations must be taken into account?
-- What are the success factors?
+* What problems can be solved with ML?
+* What effort is involved?
+* What skills and knowledge are required for implementation?
+* What legal considerations must be taken into account?
+* What are the success factors?
 
 ==== References
 

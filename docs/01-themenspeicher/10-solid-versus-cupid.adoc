@@ -8,27 +8,27 @@ Status: Freigegeben
 
 In den letzten Jahren gab es vermehrt Stimmen, die behaupteten, dass die SOLID-Prinzipien nicht mehr zeitgemäß wären. So sorgte etwa 2021 Dan North für Aufregung, als er behauptete, jedes einzelne SOLID-Prinzip wäre falsch. Nach etwas Zeit legte er nach und schlug als Alternative seine sogenannten „CUPID-Properties“ vor:
 
-- Composable
-- Unix Philosophy
-- Predictable
-- Idiomatic
-- Domain-based
+* Composable
+* Unix Philosophy
+* Predictable
+* Idiomatic
+* Domain-based
 
 ==== Aufgabenstellung
 
 Die Themenarbeitsgruppe soll folgende Fragen klären:
 
-- Welche Kritikpunkte gibt es an SOLID und können sie wissenschaftlich bestätigt werden?
-- Erfüllt CUPID alle Anforderungen, um als Orientierung bei der Software-Entwicklung zu dienen?
-- Gibt es Gemeinsamkeiten zwischen SOLID und CUPID?
-- Gibt es Einsatzgebiete, die sich besonders für SOLID oder für CUPID eignen?
-- Gibt es auch andere Sammlungen von Prinzipien, an denen sich Entwickler orientieren können?
+* Welche Kritikpunkte gibt es an SOLID und können sie wissenschaftlich bestätigt werden?
+* Erfüllt CUPID alle Anforderungen, um als Orientierung bei der Software-Entwicklung zu dienen?
+* Gibt es Gemeinsamkeiten zwischen SOLID und CUPID?
+* Gibt es Einsatzgebiete, die sich besonders für SOLID oder für CUPID eignen?
+* Gibt es auch andere Sammlungen von Prinzipien, an denen sich Entwickler orientieren können?
 
 ==== Referenzen
 
-- Principles Of Object Oriented Design, http://wiki.c2.com/?PrinciplesOfObjectOrientedDesign
-- CUPID—the back story, https://dannorth.net/2021/03/16/cupid-the-back-story/
-- CUPID—for joyful coding, https://dannorth.net/2022/02/10/cupid-for-joyful-coding/
+* Principles Of Object Oriented Design, http://wiki.c2.com/?PrinciplesOfObjectOrientedDesign
+* CUPID—the back story, https://dannorth.net/2021/03/16/cupid-the-back-story/
+* CUPID—for joyful coding, https://dannorth.net/2022/02/10/cupid-for-joyful-coding/
 
 ==== Gruppengröße
 
@@ -45,27 +45,27 @@ Status: Approved
 
 In recent years, there have been increasing voices claiming that the SOLID principles are no longer contemporary. For instance, in 2021, Dan North caused a stir when he claimed that every single SOLID principle was wrong. After some time, he followed up and proposed his so-called "CUPID-Properties" as an alternative:
 
-- Composable
-- Unix Philosophy
-- Predictable
-- Idiomatic
-- Domain-based
+* Composable
+* Unix Philosophy
+* Predictable
+* Idiomatic
+* Domain-based
 
 ==== Assignment
 
 The working group should clarify the following questions:
 
-- What are the criticisms of SOLID, and can they be scientifically validated?
-- Does CUPID meet all the requirements to serve as a guide in software development?
-- Are there commonalities between SOLID and CUPID?
-- Are there areas of application that are particularly suitable for SOLID or for CUPID?
-- Are there other collections of principles that developers can follow?
+* What are the criticisms of SOLID, and can they be scientifically validated?
+* Does CUPID meet all the requirements to serve as a guide in software development?
+* Are there commonalities between SOLID and CUPID?
+* Are there areas of application that are particularly suitable for SOLID or for CUPID?
+* Are there other collections of principles that developers can follow?
 
 ==== References
 
-- Principles Of Object-Oriented Design, http://wiki.c2.com/?PrinciplesOfObjectOrientedDesign
-- CUPID—the back story, https://dannorth.net/2021/03/16/cupid-the-back-story/
-- CUPID—for joyful coding, https://dannorth.net/2022/02/10/cupid-for-joyful-coding/
+* Principles Of Object-Oriented Design, http://wiki.c2.com/?PrinciplesOfObjectOrientedDesign
+* CUPID—the back story, https://dannorth.net/2021/03/16/cupid-the-back-story/
+* CUPID—for joyful coding, https://dannorth.net/2022/02/10/cupid-for-joyful-coding/
 
 ==== Group Size
 

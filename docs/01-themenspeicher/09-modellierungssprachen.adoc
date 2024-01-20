@@ -13,21 +13,22 @@ Die Verwendung von Modellierungssprachen ist nicht immer beliebt. Sie werden oft
 ==== Aufgabenstellung
 
 Die Themenarbeitsgruppe soll folgende Fragen diskutieren und die Erkenntnisse aufbereiten:
-- Welche Erfahrungen wurden in den eigenen Projekten mit UML und deren Alternativen gemacht?
-- Wann reichen informelle Modelle und wann ist eine formelle Modellierungssprache zu empfehlen?
-- Wie lassen sich Entwicklungsteams davon überzeugen zumindest teilweise UML zu verwenden?
-- Welche bewährte Praktiken gibt es beim Einsatz von UML?
+
+* Welche Erfahrungen wurden in den eigenen Projekten mit UML und deren Alternativen gemacht?
+* Wann reichen informelle Modelle und wann ist eine formelle Modellierungssprache zu empfehlen?
+* Wie lassen sich Entwicklungsteams davon überzeugen zumindest teilweise UML zu verwenden?
+* Welche bewährte Praktiken gibt es beim Einsatz von UML?
 
 ==== Referenzen
 
-- UML (Unified Modelling Language), https://www.uml.org/
-- C4 model, https://c4model.com/
-- FMC (Fundamental Modelling Concepts), http://www.fmc-modeling.org
-- ArchiMate, https://www.opengroup.org/archimate-forum/archimate-overview
-- Semantics of a Foundational Subset for Executable UML Models (fUML)
-- Action Language for Foundational UML (ALF)
-- Precise Semantics of UML Composite Structures (PSCS)
-- Precise Semantics of UML State Machines (PSSM)
+* UML (Unified Modelling Language), https://www.uml.org/
+* C4 model, https://c4model.com/
+* FMC (Fundamental Modelling Concepts), http://www.fmc-modeling.org
+* ArchiMate, https://www.opengroup.org/archimate-forum/archimate-overview
+* Semantics of a Foundational Subset for Executable UML Models (fUML)
+* Action Language for Foundational UML (ALF)
+* Precise Semantics of UML Composite Structures (PSCS)
+* Precise Semantics of UML State Machines (PSSM)
 
 ==== Gruppengröße
 
@@ -50,21 +51,21 @@ The use of modeling languages is not always popular. They are often seen as too 
 
 The working group should discuss the following questions and prepare the findings:
 
-- What experiences have been made with UML and its alternatives in their own projects?
-- When are informal models sufficient, and when is a formal modeling language recommended?
-- How can development teams be convinced to use at least some UML?
-- What are the proven practices in the use of UML?
+* What experiences have been made with UML and its alternatives in their own projects?
+* When are informal models sufficient, and when is a formal modeling language recommended?
+* How can development teams be convinced to use at least some UML?
+* What are the proven practices in the use of UML?
 
 ==== References
 
-- UML (Unified Modelling Language), https://www.uml.org/
-- C4 model, https://c4model.com/
-- FMC (Fundamental Modelling Concepts), http://www.fmc-modeling.org
-- ArchiMate, https://www.opengroup.org/archimate-forum/archimate-overview
-- Semantics of a Foundational Subset for Executable UML Models (fUML)
-- Action Language for Foundational UML (ALF)
-- Precise Semantics of UML Composite Structures (PSCS)
-- Precise Semantics of UML State Machines (PSSM)
+* UML (Unified Modelling Language), https://www.uml.org/
+* C4 model, https://c4model.com/
+* FMC (Fundamental Modelling Concepts), http://www.fmc-modeling.org
+* ArchiMate, https://www.opengroup.org/archimate-forum/archimate-overview
+* Semantics of a Foundational Subset for Executable UML Models (fUML)
+* Action Language for Foundational UML (ALF)
+* Precise Semantics of UML Composite Structures (PSCS)
+* Precise Semantics of UML State Machines (PSSM)
 
 ==== Group Size
 

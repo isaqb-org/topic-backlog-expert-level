@@ -28,12 +28,12 @@ Dazu gehören u. a. Folgende:
 
 ==== Referenzen
 
-- Micro Frontends, https://micro-frontends.org/
-- Self Contained Systems, https://scs-architecture.org/
-- Backends for Frontends Pattern - Cloud Design Patterns, https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends
-- Angular Material, https://material.angular.io/
-- Nx Monorepo, https://nx.dev/
-- Webpack Module Federation, https://webpack.js.org/concepts/module-federation/
+* Micro Frontends, https://micro-frontends.org/
+* Self Contained Systems, https://scs-architecture.org/
+* Backends for Frontends Pattern - Cloud Design Patterns, https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends
+* Angular Material, https://material.angular.io/
+* Nx Monorepo, https://nx.dev/
+* Webpack Module Federation, https://webpack.js.org/concepts/module-federation/
 
 ==== Gruppengröße
 
@@ -69,12 +69,12 @@ This includes, among others:
 
 ==== References
 
-- Micro Frontends, https://micro-frontends.org/
-- Self Contained Systems, https://scs-architecture.org/
-- Backends for Frontends Pattern - Cloud Design Patterns, https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends
-- Angular Material, https://material.angular.io/
-- Nx Monorepo, https://nx.dev/
-- Webpack Module Federation, https://webpack.js.org/concepts/module-federation/
+* Micro Frontends, https://micro-frontends.org/
+* Self Contained Systems, https://scs-architecture.org/
+* Backends for Frontends Pattern - Cloud Design Patterns, https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends
+* Angular Material, https://material.angular.io/
+* Nx Monorepo, https://nx.dev/
+* Webpack Module Federation, https://webpack.js.org/concepts/module-federation/
 
 ==== Group Size
 
