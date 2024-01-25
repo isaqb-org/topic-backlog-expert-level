@@ -1,0 +1,73 @@
+// tag::DE[]
+=== Dokumentation von SW Architekturen
+Themeneinreicher: Hermann Woock
+
+Status: Freigegeben
+
+==== Hintergrund
+
+Dokumentation ist in der Softwareentwicklung genauso wichtig wie unbeliebt. In der Vergangenheit und unter Einfluss des Wasserfallmodells entstanden oft unübersichtliche Papierwüsten. In der agilen Softwareentwicklung hingegen wird Dokumentation oft als Ballast und überflüssig angesehen. Neue Medien und das Erkennen der Wichtigkeit für eine saubere Architekturdokumentation werfen ein neues Licht auf die Dokumentation.
+
+Was sind Qualitätsmerkmale für eine gute Dokumentation der Architektur und wie führt man diese Erkenntnisse in ein Projekt ein? Welche Erfahrungen mit der Einführung und dem täglichen Gebrauch können an andere Teams weitergegeben werden? Welche Schwierigkeiten traten auf und wie wurde damit umgegangen. An welchen Stellen gibt es noch ungelöste Fragen und Probleme?
+
+==== Aufgabenstellung
+
+Folgende Fragen sollen behandelt werden:
+
+* Welche Formen eignen sich für die Dokumentation von SW-Architekturen (Format, Ablageort, Struktur, verwendete Notationen)?
+* Wie nutzt man Dokumentation als Kommunikationsmittel und nicht als Ablage?
+* Wie werden Entscheidungen und Prinzipien dokumentiert?
+* Wie können die Artefakte der SW-Architekturdokumentation mit anderen Artefakten (Anforderungen, Fehlerberichte, Testfälle, ...) verknüpft werden (Traceability)?
+* Wie identifiziert man die notwendigen Inhalte und bestimmt den Detaillierungsgrad der Dokumentation?
+
+==== Referenzen
+
+Zörner, S. (2021). Software-Architekturen dokumentieren und kommunizieren. Hanser Verlag
+
+Starke, G. & Hruschka P. (2022). Arc42 in Aktion: Praktische Tipps zur Architekturdokumentation. Carl Hanser Verlag
+
+Homepage of the ADR GitHub organization. https://adr.github.io/
+
+Brown, S. The C4 model for visualising software architecture. https://c4model.com/ 
+
+==== Gruppengröße
+Das Thema sollte von einer Gruppe mit 3-6 Personen bearbeitet werden.
+// end::DE[]
+
+
+// tag::EN[]
+
+=== Documentation of Software Architectures
+Submitter: Hermann Woock
+
+Status: Approved
+
+==== Background
+
+Documentation is just as important in software development as it is unpopular. In the past, and under the influence of the waterfall model, often unwieldy paper deserts were created. In agile software development, on the other hand, documentation is often seen as a burden and unnecessary. New media and the recognition of the importance of clean architecture documentation shed new light on documentation.
+
+What are the quality characteristics of good architectural documentation, and how are these insights introduced into a project? What experiences with the introduction and daily use can be passed on to other teams? What difficulties arose and how were they dealt with? Where are there still unresolved questions and problems?
+
+==== Assignment
+
+The following questions should be addressed:
+
+* What forms are suitable for the documentation of software architectures (format, storage location, structure, used notations)?
+* How is documentation used as a means of communication and not just as a repository?
+* How are decisions and principles documented?
+* How can the artifacts of software architecture documentation be linked with other artifacts (requirements, bug reports, test cases, etc.) (traceability)?
+* How to identify the necessary contents and determine the level of detail of the documentation?
+
+==== References
+
+Zörner, S. (2021). Documenting and Communicating Software Architectures. Hanser Publishing
+
+Starke, G. & Hruschka P. (2022). Arc42 in Action: Practical Tips for Architectural Documentation. Carl Hanser Publishing
+
+Homepage of the ADR GitHub organization. https://adr.github.io/
+
+Brown, S. The C4 model for visualising software architecture. https://c4model.com/
+
+==== Group Size
+The topic should be handled by a group of  3-6 people.
+// end::EN[]

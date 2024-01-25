@@ -1,0 +1,61 @@
+// tag::DE[]
+=== Maschinelles Lernen in der Praxis
+Themeneinreicher: Hermann Woock
+
+Status: Freigegeben
+
+==== Hintergrund
+Maschinelles Lernen (ML) entwickelt sich immer mehr von einer Fiktion zu einer nicht mehr wegzudenkender Technik. Wer sich nicht früh mit ML beschäftigt, für den kann der Zug später vielleicht schon abgefahren sein. Dennoch ist ein Investment sehr riskant.
+
+Einsatzgebiete sind sehr vielfältig: Baubranche, Automobilindustrie, Finanzwesen, Behörden, Logistik, Marketing. Die Umsetzung erfordert allerdings neue Talente, und wirft Fragen auf. Niemand sollte diese Entwicklung verschlafen.
+
+Im Rahmen der Digitalisierung oder der stärker werdenden Konkurrenz braucht es neue Lösungen, bei denen ML eine gute Hilfe anbieten kann. Im Bereich von Business Intelligence oder Big Data braucht es neue Verfahren, bei denen ML unterstützen kann.
+
+=== Aufgabenstellung
+Der Beitrag soll Mut machen, einen Einstieg in dieses Thema zu finden.
+
+Es gibt viele Dinge zu klären:
+
+* Welche Probleme lassen sich mit ML lösen?
+* Welcher Aufwand steckt dahinter?
+* Welche Fähigkeiten und Wissen sind bei der Umsetzung erforderlich?
+* Welche rechtlichen Einflüsse müssen beachtet werden?
+* Was sind die Erfolgsfaktoren?
+
+==== Referenzen
+
+==== Gruppengröße
+Das Thema sollte von einer Gruppe mit 3-7 Personen bearbeiten werden.
+// end::DE[]
+
+// tag::EN[]
+ChatGPT
+
+=== Machine Learning in Practice
+Submitter: Hermann Woock
+
+Status: Released
+
+==== Background
+Machine Learning (ML) is increasingly evolving from fiction to an indispensable technology. Those who do not engage with ML early may find themselves left behind later. However, investing in it is very risky.
+
+The application areas are diverse: construction, automotive industry, finance, government agencies, logistics, marketing. However, implementation requires new talents and raises questions. No one should miss out on this development.
+
+In the context of digitalization or increasing competition, new solutions are needed where ML can offer good assistance. In the field of Business Intelligence or Big Data, new methods are needed where ML can be supportive.
+
+=== Assignment
+The contribution should encourage finding an entry point into this topic.
+
+There are many things to clarify:
+
+* What problems can be solved with ML?
+* What effort is involved?
+* What skills and knowledge are required for implementation?
+* What legal considerations must be taken into account?
+* What are the success factors?
+
+==== References
+
+==== Group Size
+The topic should be handled by a group of 3-7 people.
+// end::EN[]

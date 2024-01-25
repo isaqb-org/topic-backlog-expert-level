@@ -1,0 +1,66 @@
+// tag::DE[]
+=== Auswirkungen von DDD auf das Unternehmen
+
+Themeneinreicher: Hermann Woock
+
+Status: Freigegeben
+
+==== Hintergrund
+
+Software Projekte werden mit der Zeit in der Regel zäher, zerbrechlicher und fehleranfälliger. Der Grund liegt oft in zu vielen Abhängigkeiten, schlechter Kohäsion und hoher Kopplung. Domain-Driven Design (DDD) verspricht hier Abhilfe.
+
+DDD ist aber mehr als nur das Schneiden von Komponenten. Vieles davon wird oft übersehen, wodurch viele seiner Stärken nicht ausgenutzt werden können: Deep Insight, Break Through, Supple Design, Large Structures.
+
+Außerdem ist DDD ein sehr agiler Ansatz, der bei richtiger Umsetzung starken Einfluss auf Arbeitsabläufe und Firmenstrukturen hat. 
+
+==== Aufgabenstellung
+
+Durch die Bearbeitung des Themas soll gezeigt werden, welche Probleme mit DDD gelöst und was mit DDD erreicht werden kann.
+
+Ebenso sollen aber auch die Auswirkungen aufs Unternehmen gezeigt werden, oder warum DDD scheitern kann. Welche Voraussetzungen müssen gegeben sein, damit DDD seinen Nutzen bringt?
+
+Das Thema soll u. a. aus Sicht einer Organisation, des Managements, der Software-Entwickler und der Anwender beleuchtet werden.
+
+==== Referenzen
+
+Evans, E. (2003). Domain-Driven Design: Tackling Complexity in the Heart of Software. Pearson ITP. 
+
+Vernon, V. (2013). Implementing Domain-Driven Design. Pearson ITP. 
+
+==== Gruppengröße
+Das Thema sollte von einer Gruppe mit 3-5 Personen bearbeitet werden.
+// end::DE[]
+
+
+// tag::EN[]
+=== Impacts of DDD on the Business
+
+Submitter: Hermann Woock
+
+Status: Approved
+
+==== Background
+
+Over time, software projects typically become more cumbersome, fragile, and error-prone. The reason often lies in too many dependencies, poor cohesion, and high coupling. Domain-Driven Design (DDD) promises a solution to this problem.
+
+However, DDD is more than just the cutting of components. Much of it is often overlooked, thus many of its strengths cannot be utilized: Deep Insight, Break Through, Supple Design, Large Structures.
+
+Furthermore, DDD is a very agile approach, which, if implemented correctly, has a strong impact on workflows and company structures.
+
+==== Task Description
+
+The processing of the topic should demonstrate the problems that can be solved with DDD and what can be achieved with DDD.
+
+However, the impact on the company should also be shown, or why DDD can fail. What conditions must be met for DDD to be beneficial?
+
+The topic should be examined from the perspective of an organization, management, software developers, and users, among others.
+
+==== References
+
+Evans, E. (2003). Domain-Driven Design: Tackling Complexity in the Heart of Software. Pearson ITP.
+
+Vernon, V. (2013). Implementing Domain-Driven Design. Pearson ITP.
+
+==== Group Size
+The topic should be handled by a group of 3-5 people.
+// end::EN[]

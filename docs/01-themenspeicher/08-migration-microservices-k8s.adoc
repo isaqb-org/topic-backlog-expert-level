@@ -1,0 +1,49 @@
+// tag::DE[]
+=== Migration zu Microservices unter Kubernetes
+Themeneinreicher: Hermann Woock
+
+Status: Freigegeben
+
+==== Hintergrund
+
+Märkte werden komplexer, Software, wird im Bereich Business und Technologie komplizierter. Das nötigt Firmen immer häufiger dazu, die Lösung für ihre SW-Projekte in einer Microservices-Architektur (µService) zu suchen.
+
+µServices werden in der Regel mit Kubernetes (K8s) realisiert. Kubernetes ist ein hoch kompliziertes und komplexes Framework. Entwickler sind mit deren Installation, Nutzung und Betrieb häufig überfordert. Projekte können so leicht scheitern oder unrentabel werden. Ein intensiver Austausch zwischen den Rollen Anforderungsmanagement, Architektur, Entwicklung, Test und Betrieb ist deshalb erforderlich. Fehlende Agilität und starre Strukturen im Unternehmen kommen erschwerend hinzu. Erste Ansätze gibt es dafür im DevOps. Weitere werden nötig.
+
+==== Aufgabenstellung
+
+Die Teilnehmer sollen die Probleme, Herangehensweise und Lösungen aus ihren Projekten aufarbeiten und einen Leitfaden erstellen.
+
+==== Referenzen
+
+Liebel, O. (2023). Skalierbare Container-Infrastrukturen: Das Handbuch für Administratoren (4. Ausgabe). Rheinwerk Computing. 
+
+==== Gruppengröße
+
+Das Thema soll von einer Gruppe mit 6-7 Personen bearbeiten.
+// end::DE[]
+
+// tag::EN[]
+=== Migration to Microservices on Kubernetes
+Submitter: Hermann Woock
+
+Status: Approved
+
+==== Background
+
+Markets are becoming more complex, and software in the business and technology sector is getting more complicated. This often necessitates companies to seek the solution for their software projects in a Microservices Architecture (µService).
+
+µServices are usually implemented with Kubernetes (K8s). Kubernetes is a highly complicated and complex framework. Developers are often overwhelmed with its installation, use, and operation, leading to projects that can easily fail or become unprofitable. An intense exchange between roles in requirement management, architecture, development, testing, and operation is therefore necessary. Lack of agility and rigid structures in the company make things more difficult. Initial approaches exist in DevOps, but more will be needed.
+
+==== Assignment
+
+Participants are to process the problems, approaches, and solutions from their projects and create a guideline.
+
+==== References
+
+Liebel, O. (2023). Scalable Container Infrastructures: The Handbook for Administrators (4th Edition). Rheinwerk Computing.
+
+==== Group Size
+
+The topic should be handled by a group of 6-7 persons.
+// end::EN[]

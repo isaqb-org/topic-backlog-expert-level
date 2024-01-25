@@ -1,0 +1,71 @@
+// tag::DE[]
+=== Einsatz unterschiedlicher NoSQL Datenbanken im Projekt
+Themeneinreicher: Hermann Woock
+
+Status: Freigegeben
+
+==== Hintergrund
+NoSQL-Datenbanken sind längst kein Novum mehr. In vielen Projekten sind sie Standard, in vielen aber auch nicht. 
+
+Wer bislang nur mit relationalen Datenbanken zu tun hatte, kann sich oft nicht vorstellen, wie der Einsatz von NoSQL-Datenbanken gelingen kann:
+
+* Welche Möglichkeiten stecken in solchen Datenbanken und was bringen sie für einen Gewinn?
+* Welche Typen von NoSQL Datenbanken gibt es und wofür können sie eingesetzt werden?
+* Gibt es Gefahren, auf die man achten sollte?
+
+Das Thema ist interessant für Architekten, Entwicklung, Betrieb, DB-Administratoren
+
+==== Aufgabenstellung
+Es sollen diese Fragen beantwortet werden:
+
+* Welche Probleme lassen sich mit NoSQL-Datenbanken lösen und welche neuen Probleme bekomme ich?
+* Wie kann man den besten Nutzen aus NoSQL-Datenbanken ziehen?
+* Welche Fähigkeiten und Wissen sind erforderlich?
+* Wie müssen NoSQL-Datenbanken in die Architektur berücksichtigt werden?
+
+Weitere Themen in diesem Zusammenhang sind Event Sourcing, Eventually Consistency, Skalierbarkeit, Ausfallsicherheit, Lizenzen oder BASE
+
+Ein paar gelungene Beispiele aus der Praxis mit Tipps und Tricks würden weiterhelfen.
+
+==== Referenzen
+Fowler, M., & Sadalage, P. J. (2012). NoSQL distilled.  Pearson Education. 
+
+==== Gruppengröße
+Das Thema sollte von einer Gruppe mit 3-5 Personen bearbeitet werden.
+// end::DE[]
+
+// tag::EN[]
+=== Use of Different NoSQL Databases in the Project
+Submitter: Hermann Woock
+
+Status: Released
+
+==== Background
+NoSQL databases are no longer a novelty. In many projects, they are standard, but in many others, they are not.
+
+For those who have only dealt with relational databases, it's often hard to imagine how the use of NoSQL databases can be successful:
+
+* What possibilities do these databases offer and what benefits do they bring?
+* What types of NoSQL databases are there and what can they be used for?
+* Are there dangers one should be aware of?
+
+This topic is of interest to architects, developers, operations, DB administrators.
+
+==== Assignment
+These questions should be answered:
+
+* What problems can be solved with NoSQL databases and what new problems might arise?
+* How can one get the best use out of NoSQL databases?
+* What skills and knowledge are required?
+* How must NoSQL databases be considered in the architecture?
+
+Other topics in this context include Event Sourcing, Eventual Consistency, Scalability, Fail-Safety, Licenses, or BASE.
+
+A few successful practical examples with tips and tricks would be helpful.
+
+==== References
+Fowler, M., & Sadalage, P. J. (2012). NoSQL Distilled. Pearson Education.
+
+==== Group Size
+The topic should be handled by a group of 3-5 people.
+// end::EN[]

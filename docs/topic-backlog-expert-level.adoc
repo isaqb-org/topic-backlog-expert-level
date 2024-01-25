@@ -3,13 +3,13 @@
 include::config/setup.adoc[]
 
 ifeval::["{language}" == "DE"]
-= Topic Backlog fürpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Expert Level_
+= Themenspeicher für pass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture^(R)^pass:q[<br>]_Expert Level_
 :toc-title: Inhaltsverzeichnis
 :toc: left
 endif::[]
 
 ifeval::["{language}" == "EN"]
-= Topic Backlog forpass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture (CPSA)^(R)^pass:q[<br>]_Expert Level_
+= Topic Backlog for pass:q[<br><br>]Certified Professional forpass:q[<br>]Software Architecture^(R)^pass:q[<br>]_Expert Level_
 :toc: left
 endif::[]
 
@@ -24,31 +24,4 @@ include::../license-copyright/copyright.adoc[{include_configuration}]
 toc::[]
 
 <<<
-:sectnums!:
-include::00a-preamble/00-introduction.adoc[{include_configuration}]
-
-<<<
-:sectnums!:
-include::00b-basics/00-basics.adoc[{include_configuration}]
-
-<<<
-:sectnums:
-include::01-module-block-1/00-structure.adoc[{include_configuration}]
-
-<<<
-include::02-module-block-2/00-structure.adoc[{include_configuration}]
-
-<<<
-include::03-module-block-3/00-structure.adoc[{include_configuration}]
-
-<<<
-include::04-module-block-4/00-structure.adoc[{include_configuration}]
-
-<<<
-include::05-module-block-5/00-structure.adoc[{include_configuration}]
-
-<<<
-include::20-examples/00-examples.adoc[{include_configuration}]
-
-<<<
-include::99-references/00-references.adoc[{include_configuration}]
+include::01-themenspeicher/00-structure.adoc[{include_configuration}]
