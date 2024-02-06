@@ -38,10 +38,7 @@ Das Thema sollte von einer Gruppe mit 3-5 Personen bearbeitet werden.
 === Use of Different NoSQL Databases in the Project
 Submitter: Hermann Woock
 
-Status: Released
-
-==== Background
-NoSQL databases are no longer a novelty. In many projects, they are standard, but in many others, they are not.
+Status: Approved
 
 For those who have only dealt with relational databases, it's often hard to imagine how the use of NoSQL databases can be successful:
 
