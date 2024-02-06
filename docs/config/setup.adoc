@@ -12,7 +12,7 @@
 // additional markers might be configured here!
 :include_configuration: tags=**;{language};!*
 
-:curriculum-short: MODULKUERZEL
+:curriculum-short: EL
 
 ifeval::["{language}" == "DE"]
 :curriculum-name: Themenspeicher für Expert Level
@@ -20,6 +20,6 @@ ifeval::["{language}" == "DE"]
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-name: Topic backlog for expert level
-:curriculum-header-title: Topic backlog for expert level
+:curriculum-name: Topic Backlog for Expert Level
+:curriculum-header-title: Topic Backlog for Expert Level
 endif::[]
