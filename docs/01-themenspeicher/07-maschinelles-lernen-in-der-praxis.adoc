@@ -33,7 +33,7 @@ Das Thema sollte von einer Gruppe mit 3-7 Personen bearbeiten werden.
 === Machine Learning in Practice
 Submitter: Hermann Woock
 
-Status: Released
+Status: Approved
 
 ==== Background
 Machine Learning (ML) is increasingly evolving from fiction to an indispensable technology. Those who do not engage with ML early may find themselves left behind later. However, investing in it is very risky.
