@@ -11,7 +11,7 @@ Einsatzgebiete sind sehr vielfältig: Baubranche, Automobilindustrie, Finanzwese
 
 Im Rahmen der Digitalisierung oder der stärker werdenden Konkurrenz braucht es neue Lösungen, bei denen ML eine gute Hilfe anbieten kann. Im Bereich von Business Intelligence oder Big Data braucht es neue Verfahren, bei denen ML unterstützen kann.
 
-=== Aufgabenstellung
+==== Aufgabenstellung
 Der Beitrag soll Mut machen, einen Einstieg in dieses Thema zu finden.
 
 Es gibt viele Dinge zu klären:
@@ -29,12 +29,11 @@ Das Thema sollte von einer Gruppe mit 3-7 Personen bearbeiten werden.
 // end::DE[]
 
 // tag::EN[]
-ChatGPT
 
 === Machine Learning in Practice
 Submitter: Hermann Woock
 
-Status: Released
+Status: Approved
 
 ==== Background
 Machine Learning (ML) is increasingly evolving from fiction to an indispensable technology. Those who do not engage with ML early may find themselves left behind later. However, investing in it is very risky.
@@ -43,7 +42,7 @@ The application areas are diverse: construction, automotive industry, finance, g
 
 In the context of digitalization or increasing competition, new solutions are needed where ML can offer good assistance. In the field of Business Intelligence or Big Data, new methods are needed where ML can be supportive.
 
-=== Assignment
+==== Assignment
 The contribution should encourage finding an entry point into this topic.
 
 There are many things to clarify:

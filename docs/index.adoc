@@ -1,7 +1,7 @@
 include::config/setup.adoc[]
 
-= image:isaqb-logo.jpg[width=150]Certified Professional for Software Architecture^(R)^ Expert-Level
-{name} [{short}]
+= image:isaqb-logo.jpg[width=150]Certified Professional for Software Architecture^(R)^ (CPSA)
+Expert Level
 
 == Development versions
 
