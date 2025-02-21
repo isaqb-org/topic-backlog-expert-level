@@ -33,10 +33,7 @@ Create an issue, a merge- or pull-request
 == How to build the documents
 Prerequisite: You need a Java Runtime(tm) installed.
 
-You build the output documents with gradle:
-[source,console]
-$ ./gradlew buildDocs
-
+You build the output documents with gradle: `./gradle-tools/gradlew buildDocs`
 That will produce both pdf and html output in German (DE) _and_ English (EN), unless you modify the configuration.
 
 In case you want to change that, adjust the following part of `build.gradle`:
